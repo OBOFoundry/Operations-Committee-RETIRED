@@ -1,4 +1,5 @@
 #summary Mission statement of the OBO Foundry Operations Committee
+#labels Featured
 
 =Mission statement of the OBO Foundry Operations Committee=
 
