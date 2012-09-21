@@ -1,4 +1,5 @@
 #summary HOWTO create a prefix and domain for a new resource
+#labels TechnicalWG,HOWTO
 
 = Introduction =
 
