@@ -18,6 +18,6 @@ The OBOFOC Technical WG is involved in maintaining the technical infrastructure 
 [http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg], University at Buffalo, Buffalo, USA<br>
 [http://www.ohsu.edu/xd/education/library/about/staff-directory/carlo-torniai.cfm Carlo Torniai], Oregon Health and Science Authority, Portland, USA<br>
 
-== HOWTOs ==
+= HOWTOs =
 
  * [PrefixDomain Creating a prefix and domain for a resource]
