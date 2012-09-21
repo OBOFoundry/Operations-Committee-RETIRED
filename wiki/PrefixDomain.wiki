@@ -15,7 +15,10 @@ Ideally, requesters should also submit links to their project homepage/documenta
 
  * Add the prefix to the file ontologies.txt
 
-The files lives at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt], and you will need to have sourceforge access to the OBO project at [https://sourceforge.net/projects/obo/ https://sourceforge.net/projects/obo/]
+The files lives at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt]. Note that you will need to have sourceforge access to the OBO project at [https://sourceforge.net/projects/obo/ https://sourceforge.net/projects/obo/]
 
  * Add the tracker information
 In the file [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt]
+
+ * Create the top-level PURL
+Go to [http://purl.org http://purl.org] and register the new domain as a subdomain of /obo/. Once logged in, go to the tab "Domains", option "create a new domain", and create the domain /obo/prefix (where prefix is the prefix chosen by the resource, e.g., IAO). Note that you need to have writing permission on the OBO domain to create subdomains.
