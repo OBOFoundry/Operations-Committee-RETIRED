@@ -14,10 +14,10 @@ The OBOFOC Technical WG is involved in maintaining the technical infrastructure 
 
 (in alphabetical order)
 
-Melanie Courtot, BCCRC, Vancouver, Canada<br>
-Chris Mungall, Lawrence Berkeley Laboratory, Berkeley, USA<br>
-Alan Ruttenberg, University at Buffalo, Buffalo, USA<br>
-Carlo Torniai, Oregon Health and Science Authority, Portland, USA<br>
+[http://purl.org/net/mcourtot Melanie Courtot], BCCRC, Vancouver, Canada<br>
+[http://berkeleybop.org/person/chris-mungall Chris Mungall], Lawrence Berkeley Laboratory, Berkeley, USA<br>
+[http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg], University at Buffalo, Buffalo, USA<br>
+[http://www.ohsu.edu/xd/education/library/about/staff-directory/carlo-torniai.cfm Carlo Torniai], Oregon Health and Science Authority, Portland, USA<br>
 
 == HOWTOs ==
 
