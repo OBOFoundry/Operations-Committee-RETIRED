@@ -3,7 +3,10 @@
 
 = Introduction =
 
-This page describes how-to register a new prefix with the OBO Foundry and create the corresponding PURL top-domain. There are no requirements for resources that wish to register a prefix or domain, but for the fact that the required namespace be free. 
+This page describes how-to register a new prefix with the OBO Foundry and create the corresponding PURL top-domain. To register a prefix or domain:
+ # the required namespace must be free
+ # the resource must be publicly available
+ # 
 
 
 = Details =
