@@ -12,4 +12,4 @@ The OBOFOC Technical WG is involved in maintaining the technical infrastructure 
 
 == HOWTOs ==
 
-[PrefixDomain Creating a prefix and domain for a resource]
+ * [PrefixDomain Creating a prefix and domain for a resource]
