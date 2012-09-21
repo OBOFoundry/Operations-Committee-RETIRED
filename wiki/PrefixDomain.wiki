@@ -8,7 +8,7 @@ This page describes how-to register a new prefix with the OBO Foundry and create
  # the resource must be publicly available
  # there must be a contact person for the resource
 
-Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker.
+Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker. There are no other requirements with respect to orthogonality for example.
 
 
 = Details =
