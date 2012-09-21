@@ -1,0 +1,12 @@
+#summary HOWTO create a prefix and domain for a new resource
+
+= Introduction =
+
+This page describes how-to register a new prefix with the OBO Foundry and create the corresponding PURL top-domain
+
+
+= Details =
+
+ * Add the prefix to the file ontologies.txt
+
+The files lives at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt], and you will need to have sourceforge access to the OBO project at [https://sourceforge.net/projects/obo/ https://sourceforge.net/projects/obo/]
