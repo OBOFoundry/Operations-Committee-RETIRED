@@ -1,4 +1,5 @@
 #summary meetings
+#labels Featured
 
 = Introduction =
 
