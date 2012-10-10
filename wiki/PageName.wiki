@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This page lists the various meetings held by the OBO Foundry Operations Committee. Note that access to minutes of committee meetings are restricted to committee members.
+This page lists the various meetings held by the OBO Foundry Operations Committee. Access to minutes of committee meetings is restricted to committee members.
 
 
 = Details =
