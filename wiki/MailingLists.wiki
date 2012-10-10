@@ -1,0 +1,10 @@
+#summary mailing-lists
+
+= Introduction =
+
+A page listing the current mailing-lists in use by the group. Access to content and/or posting may be restricted as mentioned below.
+
+= Details =
+
+ * [https://groups.google.com/forum/?fromgroups#!forum/obo-operations-committee obo-operations-committee] - restricted access and subscription
+ * [https://groups.google.com/forum/?fromgroups#!forum/ofoc-technicalwg OFOC Technical group] - restricted access and subscription
