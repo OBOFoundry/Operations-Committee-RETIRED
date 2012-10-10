@@ -8,6 +8,13 @@ This page lists the various meetings held by the OBO Foundry Operations Committe
 
 = Details =
 
+== OFOC meetings ==
  * [https://docs.google.com/document/d/1cxYCi0LLcB6FZP1xIv95UARibun2hBZMi8u6VUQbBGA/edit 20121010CommitteeMeeting]
  * [https://docs.google.com/document/d/18Flr-Kbvb3dOwEWjPq1fLTsdkfd7JxWMAdimL-zjWDE/edit 20120912CommitteeMeeting]
  * [https://docs.google.com/document/d/1CKN2UNV7Yydfc23jwtd2UEZTTk-0jbTy_4LGF-PuWl8/edit 20120815CommitteeMeeting]
+
+== Editorial WG meetings ==
+
+== Technical WG meetings ==
+
+== Outreach WG meetings ==
