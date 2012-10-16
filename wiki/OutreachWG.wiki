@@ -1,4 +1,4 @@
-#summary OBO Foundry Operations Committee Editorial WG
+#summary OBO Foundry Operations Committee Outreach WG
 
 = Introduction =
 
