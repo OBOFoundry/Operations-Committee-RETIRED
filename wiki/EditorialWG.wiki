@@ -21,6 +21,6 @@ Membership in the OFOC Editorial Working Group is open to all members of the OFO
 
 = Mailing list =
 
-The mailing list for the OFOC Editorial Working Group is OFOC-editorialwg@googlegroups.com. Send an email to request to join the list.
+The mailing list for the OFOC Editorial Working Group is mailto:OFOC-editorialwg@googlegroups.com. Send an email to request to join the list.
 
 You can view the posts at https://groups.google.com/forum/?fromgroups#!forum/ofoc-editorialwg
