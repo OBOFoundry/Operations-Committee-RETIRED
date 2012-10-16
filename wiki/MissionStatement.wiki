@@ -12,7 +12,7 @@ Current working groups include:
 
  * *OBO Foundry Editorial working group*
 
-The OBO Foundry Editorial working group is involved in reviewing OBO Foundry ontologies and policy setting. Primary tasks are to conduct reviews, but also include all activities that enable that process, such as tool building for automated validation, website maintenance of the review results, or leading calls and taking notes. 
+The [Editorial WG OBO Foundry Editorial working group] is involved in reviewing OBO Foundry ontologies and policy setting. Primary tasks are to conduct reviews, but also include all activities that enable that process, such as tool building for automated validation, website maintenance of the review results, or leading calls and taking notes. 
 
  * *OBO Foundry Technical working group*
 
@@ -20,4 +20,4 @@ The [TechnicalWG OBO Foundry Technical working group] is involved in maintaining
 
  * *OBO Foundry Outreach working group*
 
-The OBO Foundry Outreach working group is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
+The [OutreachWG OBO Foundry Outreach working group] is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
