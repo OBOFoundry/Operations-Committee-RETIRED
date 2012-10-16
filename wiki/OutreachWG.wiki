@@ -1,0 +1,17 @@
+#summary OBO Foundry Operations Committee Editorial WG
+
+= Introduction =
+
+This page describes members and activities of the OBOFOC Outreach Working Group.
+
+
+= Details =
+
+The OBOFOC Outreach working group is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
+
+= Members =
+
+(in alphabetical order)<br>
+members, please fill in names and links
+
+[http://www.nybg.org/science/scientist_profile.php?id_scientist=119 Ramona Walls], New York Botanical Garden, Bronx, NY, USA<br>
