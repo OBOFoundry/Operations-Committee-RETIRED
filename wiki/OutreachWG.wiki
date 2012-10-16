@@ -2,12 +2,12 @@
 
 = Introduction =
 
-This page describes members and activities of the OBOFOC Outreach Working Group.
+This page describes members and activities of the OFOC Outreach Working Group.
 
 
 = Details =
 
-The OBOFOC Outreach working group is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
+The OFOC Outreach working group is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
 
 = Members =
 
