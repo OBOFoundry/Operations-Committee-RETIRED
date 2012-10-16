@@ -1,4 +1,5 @@
 #summary OBO Foundry Operations Committee Outreach WG
+#labels Featured
 
 = Introduction =
 
