@@ -3,15 +3,15 @@
 
 = Introduction =
 
-This page describes members and activities of the OBO Foundry Operations Committee (OFOC) Editorial WG.
+This page describes members and activities of the OBO Foundry Operations Committee Editorial Working Group.
 
 
 = Details =
 
-From the [http://code.google.com/p/obo-foundry-operations-committee/wiki/MissionStatement MissionStatement]: The OBOFOC Editorial Working Group is involved in reviewing OBO Foundry ontologies and policy setting. Primary tasks are to conduct reviews, but also include all activities that enable that process, such as tool building for automated validation, website maintenance of the review results, or leading calls and taking notes. 
+From the [http://code.google.com/p/obo-foundry-operations-committee/wiki/MissionStatement MissionStatement]: OBO Foundry Operations Committee Editorial WG is involved in reviewing OBO Foundry ontologies and policy setting. Primary tasks are to conduct reviews, but also include all activities that enable that process, such as tool building for automated validation, website maintenance of the review results, or leading calls and taking notes. 
 
 == Scope ==
-The OCOF Editorial WG will:
+The OBO Foundry Editorial WG will:
   * create guidelines for ontology review process (how we do reviews)
   * create guidelines for ontology review criteria (what we should review)
   * manage the ontology review process
@@ -26,11 +26,11 @@ members, please fill in names and links
 
 [http://www.nybg.org/science/scientist_profile.php?id_scientist=119 Ramona Walls], New York Botanical Garden, Bronx, NY, USA<br>
 
-Membership in the OFOC Editorial Working Group is open to all members of the OFOC who are willing to actively participate. If you are interested in joining the working group, send an email to the mailing list.
+Membership in the OBO Foundry Editorial WG is open to all members of the OBO Foundry Operations Committee who are willing to actively participate. If you are interested in joining the working group, send an email to the mailing list.
 
 
 = Mailing list =
 
-The mailing list for the OFOC Editorial Working Group is mailto:OFOC-editorialwg@googlegroups.com. Send an email to request to join the list. You do not have to be a member of the group to join the mailing list.
+The mailing list for the OOBO Foundry Editorial WG is mailto:obo-foundry-editorial-working-group@googlegroups.com. Send an email to request to join the list. You do not have to be a member of the group to join the mailing list.
 
 You can view the posts at https://groups.google.com/forum/?fromgroups#!forum/ofoc-editorialwg.
