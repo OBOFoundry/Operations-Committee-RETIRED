@@ -14,6 +14,7 @@ This page lists the various meetings held by the OBO Foundry Operations Committe
  * [https://docs.google.com/document/d/1CKN2UNV7Yydfc23jwtd2UEZTTk-0jbTy_4LGF-PuWl8/edit 20120815CommitteeMeeting]
 
 == Editorial WG meetings ==
+ * [https://docs.google.com/document/d/17i7a7Sf88Df-cLckxfOithEyxzwWB36YZ0CeG__cd1w/edit# 20121016 EditorialWG minutes]
 
 == Technical WG meetings ==
 
