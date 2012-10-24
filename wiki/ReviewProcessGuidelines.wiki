@@ -1,4 +1,16 @@
 #summary Guidelines for how to review ontologies.
 #labels Editorial
 
-= Introduction =
+= Ontology Review Process =
+
+This page deals with policies and guidelines for the process of ontology review, particularly the operational aspects such as:
+
+ * which ontologies should be reviewed, and in what order?
+ * how should reviewers be chosen?
+ * how will conflicts be resolved?
+
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaPolicies ReviewCriteriaPolicies] covers guidelines and policies for the criteria by which an ontology should be reviewed.
+
+= Draft guidelines and policies = 
+
+Link to draft of ontology review policy guidelines.
