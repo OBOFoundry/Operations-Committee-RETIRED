@@ -13,7 +13,7 @@ From the [http://code.google.com/p/obo-foundry-operations-committee/wiki/Mission
 == Scope ==
 The OBO Foundry Editorial WG will:
   * create guidelines for ontology review process (how we do reviews)
-  * create guidelines for ontology review criteria (what we should review)
+  * create policies for ontology review criteria (what we should review)
   * manage the ontology review process
 
 Current activities are focused on creating guidelines for reviews. Once those guidelines are in place, the working group will shift its focus to carrying out the review process, with an aim of reducing the backlog of ontologies awaiting review.
@@ -22,7 +22,7 @@ Current activities are focused on creating guidelines for reviews. Once those gu
 
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewProcessGuidelines Ontology review process guidelines]
 
-[http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaGuidelines Ontology review criteria guidelines]
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaPolicies Ontology review criteria policies]
 
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewManagementGuidelines Ontology review management guidelines]
 
