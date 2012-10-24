@@ -1,9 +1,9 @@
-#summary Guidelines for how to review ontologies.
+#summary Guidelines for establishing a fair, efficient, and useful ontology review process.
 #labels Editorial
 
 = Ontology Review Process =
 
-This page deals with policies and guidelines for the process of ontology review, particularly the operational aspects such as:
+This page deals with policies and guidelines for the process of ontology review, particularly operational aspects such as:
 
  * which ontologies should be reviewed, and in what order?
  * how should reviewers be chosen?
