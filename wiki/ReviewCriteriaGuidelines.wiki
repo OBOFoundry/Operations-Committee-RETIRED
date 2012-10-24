@@ -1,8 +1,0 @@
-#summary Guidelines for establishing criteria for ontology review.
-#labels Editorial
-
-= Review Criteria Guidelines =
-
-= Review criteria =
-
-Link to draft page for review criteria.
