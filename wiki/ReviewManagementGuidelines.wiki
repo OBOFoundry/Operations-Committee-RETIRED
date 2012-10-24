@@ -1,14 +1,8 @@
 #summary Guidelines for how to manage the review of ontologies.
 #labels Editorial
 
-= Introduction =
+= Ontology Review Management =
 
-Add your content here.
+This page covers guidelines for managing reviews. The review management process will be based on the [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewProcessGuidelines ontology review process guidelines] and the [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaPolicies ontology review criteria policies]. 
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+This wiki page may not be necessary, if the other two pages cover all material.
