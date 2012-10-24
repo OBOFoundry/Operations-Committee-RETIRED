@@ -1,5 +1,5 @@
 #summary OBO Foundry Operations Committee Editorial WG
-#labels Featured
+#labels Featured,Editorial
 
 = Introduction =
 
