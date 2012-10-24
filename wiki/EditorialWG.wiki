@@ -20,6 +20,12 @@ Current activities are focused on creating guidelines for reviews. Once those gu
 
 == Draft guidelines and policies ==
 
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewProcessGuidelines Ontology review process guidelines]
+
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaGuidelines Ontology review criteria guidelines]
+
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewManagementGuidelines Ontology review management guidelines]
+
 = Members =
 (in alphabetical order)<br>
 members, please fill in names and links
