@@ -20,6 +20,7 @@ The OBOFOC Technical WG is involved in maintaining the technical infrastructure 
 
 = Meetings = 
 
+* {https://docs.google.com/document/d/1OxpGSNU_QiDCaRlAN9QtD3oxCXuhQap42aIP7VfM5jY/edit 201211109 - OBOFOC-TWG meeting]
  * [https://docs.google.com/document/d/1yhwBGCVUcSV06Yz7GIv8DLWUoaxPuG0VDqRhzQZuurA/edit 20121017 - OBOFOC-TWG meeting]
 
 = HOWTOs =
