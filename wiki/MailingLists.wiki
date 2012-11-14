@@ -8,3 +8,5 @@ A page listing the current mailing-lists in use by the group. Access to content 
 
  * [https://groups.google.com/forum/?fromgroups#!forum/obo-operations-committee obo-operations-committee] - restricted access and subscription
  * [https://groups.google.com/forum/?fromgroups#!forum/ofoc-technicalwg OFOC Technical group] - restricted access and subscription
+ * [https://groups.google.com/forum/?fromgroups#!forum/obo-foundry-editorial-working-group Editorial working group] - restricted access and subscription
+ * [https://groups.google.com/forum/?fromgroups#!forum/obo-foundry-outreach-working-group Outreach working group] - restricted access and subscription
