@@ -25,3 +25,7 @@ See [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWGM
 = HOWTOs =
 
  * [PrefixDomain Creating a prefix and domain for a resource]
+
+= DOCs =
+
+ * [OBOPURLDomain How is the OBO PURL configured]
