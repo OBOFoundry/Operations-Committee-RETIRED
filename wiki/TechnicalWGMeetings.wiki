@@ -1,0 +1,13 @@
+#summary meetings of the technical working group
+
+
+= Technical working group meetings =  
+
+
+ * 20130222 - OBOFOC-TWG meeting - chair Philippe Rocca-Serra
+ * 20130201 - OBOFOC-TWG meeting - chair Colin Batchelor
+ * 20130111 - OBOFOC-TWG meeting - chair Alan Ruttenberg
+ * 20121221 - OBOFOC-TWG meeting - chair Chris Mungall
+ * 20121130 - OBOFOC-TWG meeting - chair Carlo Torniai
+ * [https://docs.google.com/document/d/1OxpGSNU_QiDCaRlAN9QtD3oxCXuhQap42aIP7VfM5jY/edit 20121109 - OBOFOC-TWG meeting]
+ * [https://docs.google.com/document/d/1yhwBGCVUcSV06Yz7GIv8DLWUoaxPuG0VDqRhzQZuurA/edit 20121017 - OBOFOC-TWG meeting]
