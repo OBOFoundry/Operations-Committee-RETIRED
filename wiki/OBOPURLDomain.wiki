@@ -31,4 +31,4 @@ This takes precedence over the general PURL redirection for the /obo/ domain as 
  * when creating a new domain (upon request from users), we should create (1) the domain (e.g., /obo/CLO) (2) the PURL towards the OWL file (e.g., /obo/clo.owl) and the PURL for general redirection (e.g., /obo/CLO/about/)
 
 
-(cite 1) [httpRange-14 http://www.w3.org/2001/tag/issues.html#httpRange-14]
+(cite 1) http://www.w3.org/2001/tag/issues.html#httpRange-14
