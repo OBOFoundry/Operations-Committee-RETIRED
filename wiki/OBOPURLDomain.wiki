@@ -25,17 +25,21 @@ This takes precedence over the general PURL redirection for the /obo/ domain as 
  * purl.org/obo/ gets redirected to the berkeley server
  * the berkeley server has a rule such that IRIs looking like OBO IDs are redirected to /obo/NS/about/ID, where NS is the prefix (e.g. IAO) and the ID is IAO_1234567
 
-`  ## INHERIT:`
-`  ## OBO Redirect from Alan`
- `  RewriteRule ^/ontologies/(\w+)_(\d+)`
+` ## INHERIT:`
+` ## OBO Redirect from Alan`
+` RewriteRule ^/ontologies/(\w+)_(\d+)`
 `http://purl.obolibrary.org/obo/$1/about/$1_$2  [R=303,L]`
 
 
- * IAO developers should set up a partial redirect such that purl.org/obo/IAO/about/ redirects to Ontobee where the IRIs are dereferenced.
+ * if developers of a resource set up a partial redirect such that purl.org/obo/NS/about/ it will redirect to the location they such indicate
+ * otherwise a rule will catch those back on the berkeley server
 
-= TO DO = 
- * check if the Berkeley server could be configured to send a 303 upon request for OBO IDs
- * when creating a new domain (upon request from users), we should create (1) the domain (e.g., /obo/CLO) (2) the PURL towards the OWL file (e.g., /obo/clo.owl) and the PURL for general redirection (e.g., /obo/CLO/about/)
+`## Fallthough OBO catch.`
+`## If the rewrite below ends back up at us, then use the stand-in`
+`## page on ontobee.`
+`RewriteRule ^/ontologies/\S+/about/(\S+)_(\d+)`
+`http://www.ontobee.org/browser/rdf.php?o=$1&iri=http://purl.obolibrary.org/obo/$1_$2`
+redirects to Ontobee where the IRIs are dereferenced.
 
 
 (cite 1) http://www.w3.org/2001/tag/issues.html#httpRange-14
