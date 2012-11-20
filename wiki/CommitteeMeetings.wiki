@@ -15,7 +15,7 @@ This page lists the various meetings held by the OBO Foundry Operations Committe
 ||13 Feb 2013||TBD||||
 ||09 Jan 2013||TBD||||
 ||12 Dec 2012||CB||||
-||14 Nov 2012||MC||[https://docs.google.com/document/d/1lAMEiOx-pPBBvuOgffC2YtyD6EiYVKRQTa6uBmhNXoE/edit 20121114 - OBO operations committee meeting]||
+||14 Nov 2012||MC||[https://docs.google.com/document/d/1lAMEiOx-pPBBvuOgffC2YtyD6EiYVKRQTa6uBmhNXoE/edit 20121114CommitteeMeeting]||
 ||10 Oct 2012||MC||[https://docs.google.com/document/d/1cxYCi0LLcB6FZP1xIv95UARibun2hBZMi8u6VUQbBGA/edit 20121010CommitteeMeeting]||
 ||12 Sep 2012||RW||[https://docs.google.com/document/d/18Flr-Kbvb3dOwEWjPq1fLTsdkfd7JxWMAdimL-zjWDE/edit 20120912CommitteeMeeting]||
 ||15 Aug 2012||MC||[https://docs.google.com/document/d/1CKN2UNV7Yydfc23jwtd2UEZTTk-0jbTy_4LGF-PuWl8/edit 20120815CommitteeMeeting]||
