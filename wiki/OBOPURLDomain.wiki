@@ -24,6 +24,13 @@ This takes precedence over the general PURL redirection for the /obo/ domain as 
  * http://purl.obolibrary.org/ is a CNAME (i.e. an alias) that redirect to purl.org
  * purl.org/obo/ gets redirected to the berkeley server
  * the berkeley server has a rule such that IRIs looking like OBO IDs are redirected to /obo/NS/about/ID, where NS is the prefix (e.g. IAO) and the ID is IAO_1234567
+
+`  ## INHERIT:`
+`  ## OBO Redirect from Alan`
+ `  RewriteRule ^/ontologies/(\w+)_(\d+)`
+`http://purl.obolibrary.org/obo/$1/about/$1_$2  [R=303,L]`
+
+
  * IAO developers should set up a partial redirect such that purl.org/obo/IAO/about/ redirects to Ontobee where the IRIs are dereferenced.
 
 = TO DO = 
