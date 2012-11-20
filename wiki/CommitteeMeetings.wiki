@@ -9,6 +9,8 @@ This page lists the various meetings held by the OBO Foundry Operations Committe
 = Details =
 
 == OFOC meetings ==
+Please sing up to chair a meeting. The chair should create agenda, host call, clean up minutes, etc.
+
 ||meeting date||chair||link to minutes||
 ||10 Apr 2013||TBD||||
 ||13 Mar 2013||TBD||||
