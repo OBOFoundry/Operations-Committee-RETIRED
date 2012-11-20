@@ -1,0 +1,34 @@
+#summary configuration of the OBO PURL domain
+
+= Introduction =
+
+To enable URI dereferencing while allowing users to keep control over their resources, we implemented a resolution system in multiple steps.
+
+
+= httpRange14 =
+
+When resolving IRIs, there is an ambiguity between what non-hash IRIs denote in real life (e.g, a car) and what is returned upon querying for them, i.e., a document. The W3C Technical Architecture Group (TAG) establishes a best practice to make the range of HTTP responses less ambivalent, by agreeing that[1]: 
+ * If an "http" resource responds to a GET request with a 2xx response, then the resource identified by that URI is an information resource;
+ * If an "http" resource responds to a GET request with a 303 (See Other) response, then the resource identified by that URI could be any resource;
+ * If an "http" resource responds to a GET request with a 4xx (error) response, then the nature of the resource is unknown.
+
+Our architecture follows the recommendation of the TAG, and all requests to access IRIs result in an HTTP response status code 303. We add an extra step to the above by using a Canonical Name Record (CNAME)  for purl.obolibrary.org, which is an alias for http://www.berkeleybop.org/ontologies/. This allows us to leverage existing infrastructure - the PURL resolver - while allowing for immediate redirection should it fail.
+Ultimately, the server responds with a 200 and sends back the RDF/XML document that describes the resource, thereby identified as an information resource as per the httpRange-14. 
+
+= Practical examples = 
+
+== Request for /obo/aero.owl ==
+This takes precedence over the general PURL redirection for the /obo/ domain as it is a more specific PURL.
+
+== Request for http://purl.obolibrary.org/obo/IAO_1234567 ==
+ * http://purl.obolibrary.org/ is a CNAME (i.e. an alias) that redirect to purl.org
+ * purl.org/obo/ gets redirected to the berkeley server
+ * the berkeley server has a rule such that IRIs looking like OBO IDs are redirected to /obo/NS/about/ID, where NS is the prefix (e.g. IAO) and the ID is IAO_1234567
+ * IAO developers should set up a partial redirect such that purl.org/obo/IAO/about/ redirects to Ontobee where the IRIs are dereferenced.
+
+= TO DO = 
+ * check if the Berkeley server could be configured to send a 303 upon request for OBO IDs
+ * when creating a new domain (upon request from users), we should create (1) the domain (e.g., /obo/CLO) (2) the PURL towards the OWL file (e.g., /obo/clo.owl) and the PURL for general redirection (e.g., /obo/CLO/about/)
+
+
+[1] http://www.w3.org/2001/tag/issues.html#httpRange-14
