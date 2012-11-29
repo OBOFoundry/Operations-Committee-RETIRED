@@ -12,7 +12,9 @@ The OBOFOC Technical WG is involved in maintaining the technical infrastructure 
 
 = Members =
 
-(in alphabetical order)<br>
+(in alphabetical order of surname)<br/>
+Colin Batchelor, Royal Society of Chemistry, UK
+<br>
 [http://purl.org/net/mcourtot Melanie Courtot], BC Cancer Research Centre, Vancouver, Canada<br>
 [http://berkeleybop.org/person/chris-mungall Chris Mungall], Lawrence Berkeley Laboratory, Berkeley, USA<br>
 [http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg], University at Buffalo, Buffalo, USA<br>
