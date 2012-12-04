@@ -28,3 +28,5 @@ Please sing up to chair a meeting. The chair should create agenda, host call, cl
 == Technical WG meetings ==
 
 == Outreach WG meetings ==
+
+Meeting agendas are in [https://drive.google.com/?authuser=0#folders/0B8x6Blq96uycYVZONXRKdThnekk this folder]. Agendas are currently available to subscribers only.
