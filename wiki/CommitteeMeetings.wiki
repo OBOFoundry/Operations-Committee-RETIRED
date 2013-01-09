@@ -12,9 +12,16 @@ This page lists the various meetings held by the OBO Foundry Operations Committe
 Please sign up to chair a meeting. The chair should create agenda, host call, clean up minutes, etc.
 
 ||meeting date||chair||link to minutes||
-||10 Apr 2013||TBD||||
-||13 Mar 2013||TBD||||
-||13 Feb 2013||TBD||||
+||9 Dec 2013||Bjoern||||
+||13 Nov 2013||Colin||||
+||9 Oct 2013||Janna||||
+||9 Sep 2013||Chris||||
+||14 Aug 2013||Ramona||||
+||9 Jul 2013||Melanie||||
+||8 May 2013||Carlo||||
+||10 Apr 2013||Philippe||||
+||13 Mar 2013||Melissa||||
+||13 Feb 2013||Darren||||
 ||09 Jan 2013||CB||[https://docs.google.com/document/d/1IjuRMWxxB3PkdNRDHIGHUdI6byYWUYZ3bVzM2Xljtb0/edit 20130109CommitteeMeeting]||
 ||12 Dec 2012||CB||Cancelled|| 
 ||14 Nov 2012||MC||[https://docs.google.com/document/d/1lAMEiOx-pPBBvuOgffC2YtyD6EiYVKRQTa6uBmhNXoE/edit 20121114CommitteeMeeting]||
