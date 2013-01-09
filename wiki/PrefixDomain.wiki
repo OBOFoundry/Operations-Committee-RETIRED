@@ -8,7 +8,15 @@ This page describes how-to register a new prefix with the OBO Foundry and create
  # the resource must be publicly available
  # there must be a contact person for the resource
 
-Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker. There are no other requirements with respect to orthogonality for example.
+Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker. 
+
+On January 9th 2013, it has been decided that resources requesting a PURL in the OBO domain should satisfy a minimal set of requirements.
+Current proposal:
+ # new ontology proposals and ID space requests go to obo-discuss
+ # there is something like a 2 week waiting time giving the chance for members of the community to object to either the ontology or the ID space (e.g. it conflicts with a possible future ontology, or an existing resource)
+ # one of the various committees, working groups, secretariats, etc then rules on whether the ID space is to be granted
+
+Note that a formal policy has yet to be established, and the above is in flux.
 
 
 = Details =
