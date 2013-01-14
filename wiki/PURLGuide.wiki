@@ -8,7 +8,7 @@ The PURL support mailing-list is available at persistenturls@googlegroups.com
 
 = Details =
 
-  * never EVER delete (i.e., tombstone as it is called on the interface) a purl - there is no way to undelete them, so if you have an issue please consult with the group before taking further action
+  * *never EVER delete (i.e., tombstone as it is called on the interface) a purl* - there is no way to undelete them, so if you have an issue please consult with the group before taking further action
   * always add the OBO group as maintainer/writer when you create a PURL
   * create a user group which will be the manager of all the PURLs you create - this will prevent issues when you are not available, and allows you to plan for the future (when/if you leave your project, or somebody new joins)
   * if you want to update an existing record, first do a search for it, and then click the little paper/pencil icon to modify it so that preexisting information is automatically filled in (otherwise you will lose all of it)
