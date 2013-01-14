@@ -1,4 +1,5 @@
 #summary PURL guide
+#labels TechnicalWG,HOWTO,Featured
 
 = Introduction =
 
