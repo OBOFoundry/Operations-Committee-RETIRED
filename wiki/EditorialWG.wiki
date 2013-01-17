@@ -37,6 +37,8 @@ Membership in the OBO Foundry Editorial WG is open to all members of the OBO Fou
 
 = Mailing list =
 
-The mailing list for the OOBO Foundry Editorial WG is mailto:obo-foundry-editorial-working-group@googlegroups.com. Send an email to request to join the list. You do not have to be a member of the group to join the mailing list.
+= Contact Us =
 
-You can view the posts at https://groups.google.com/forum/?fromgroups#!forum/obo-foundry-editorial-working-group.
+The best way to contact the OBO Foundry Editorial Working Group is through the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]. Select the Editorial group template or the Request review template.
+
+The mailing list for the OBO Foundry Editorial Working Group is [mailto:obo-foundry-editorial-working-group@googlegroups.com obo-foundry-editorial-working-group@googlegroups.com]. This is currently a closed list, but non-members can post to the list.
