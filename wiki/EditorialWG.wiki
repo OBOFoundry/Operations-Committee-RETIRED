@@ -1,14 +1,14 @@
-#summary OBO Foundry Operations Committee Editorial WG
+#summary OBO Foundry Editorial WG
 #labels Featured,Editorial
 
 = Introduction =
 
-This page describes members and activities of the OBO Foundry Operations Committee Editorial Working Group.
+This page describes members and activities of the OBO Foundry Editorial Working Group.
 
 
 = Details =
 
-From the [http://code.google.com/p/obo-foundry-operations-committee/wiki/MissionStatement MissionStatement]: OBO Foundry Operations Committee Editorial WG is involved in reviewing OBO Foundry ontologies and policy setting. Primary tasks are to conduct reviews, but also include all activities that enable that process, such as tool building for automated validation, website maintenance of the review results, or leading calls and taking notes. 
+From the [http://code.google.com/p/obo-foundry-operations-committee/wiki/MissionStatement MissionStatement]: OBO Foundry Editorial WG is involved in reviewing OBO Foundry ontologies and policy setting. Primary tasks are to conduct reviews, but also include all activities that enable that process, such as tool building for automated validation, website maintenance of the review results, or leading calls and taking notes. 
 
 == Scope ==
 The OBO Foundry Editorial WG will:
@@ -30,12 +30,17 @@ Current activities are focused on creating guidelines for reviews. Once those gu
 (in alphabetical order)<br>
 members, please fill in names and links
 
+Melissa Haendel
+
+Darren Natale
+
+Philippe Rocca-Serra
+
+Alan Ruttenberg
+
 [http://www.nybg.org/science/scientist_profile.php?id_scientist=119 Ramona Walls], New York Botanical Garden, Bronx, NY, USA<br>
 
 Membership in the OBO Foundry Editorial WG is open to all members of the OBO Foundry Operations Committee who are willing to actively participate. If you are interested in joining the working group, send an email to the mailing list.
-
-
-= Mailing list =
 
 = Contact Us =
 
