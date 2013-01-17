@@ -8,7 +8,7 @@ This page describes members and activities of the OBO Foundry Outreach Working G
 
 = Details =
 
-The OBO Foundry Operations Outreach WG is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
+The OBO Foundry Outreach WG is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
 
 = Members =
 
@@ -22,6 +22,6 @@ Janna Hastings<br>
 
 = Contact Us =
 
-The best way to contact the OFOC Outreach Working Group is through the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]. Select the Outreach group template (default).
+The best way to contact the OBO Foundry Outreach Working Group is through the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]. Select the Outreach group template (default).
 
-The mailing list for the OFOC Outreach Working Group is [mailto:obo-foundry-outreach-working-group@googlegroups.com obo-foundry-outreach-working-group@googlegroups.com]. This is currently a closed list, but non-members can post to the list.
+The mailing list for the OBO Foundry Outreach Working Group is [mailto:obo-foundry-outreach-working-group@googlegroups.com obo-foundry-outreach-working-group@googlegroups.com]. This is currently a closed list, but non-members can post to the list.
