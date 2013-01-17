@@ -1,4 +1,4 @@
-#summary OBO Foundry Operations Committee Technical WG
+#summary OBO Foundry Technical WG
 #labels Featured,Technical
 
 = Introduction =
