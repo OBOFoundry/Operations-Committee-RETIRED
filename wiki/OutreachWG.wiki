@@ -1,14 +1,14 @@
-#summary OBO Foundry Operations Committee Outreach WG
+#summary OBO Foundry Outreach WG
 #labels Featured,Outreach
 
 = Introduction =
 
-This page describes members and activities of the OBO Foundry Operations Committee Outreach Working Group.
+This page describes members and activities of the OBO Foundry Outreach Working Group.
 
 
 = Details =
 
-The OBO Foundry Operations Committee Outreach WG is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
+The OBO Foundry Operations Outreach WG is involved in public relations for the OBO Foundry. This includes monitoring and following up discussions on mailing lists, preparing documentation and educational materials, and presenting OBO Foundry activities at workshops, conferences, or other venues.
 
 = Members =
 
