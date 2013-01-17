@@ -1,5 +1,5 @@
 #summary OBO Foundry Operations Committee Outreach WG
-#labels Featured
+#labels Featured,Outreach
 
 = Introduction =
 
@@ -20,8 +20,8 @@ Janna Hastings<br>
 [http://www.ohsu.edu/xd/education/library/about/staff-directory/melissa-haendel.cfm Melissa Haendel], Oregon Health & Science University, Portland, OR<br>
 [http://www.nybg.org/science/scientist_profile.php?id_scientist=119 Ramona Walls], New York Botanical Garden, Bronx, NY, USA<br>
 
-= Mailing list =
+= Contact Us =
 
-The mailing list for the OFOC Outreach Working Group is [mailto:obo-foundry-outreach-working-group@googlegroups.com obo-foundry-outreach-working-group@googlegroups.com]. Send an email to request to join the list. You do not have to be a member of the group to join the mailing list.
+The best way to contact the OFOC Outreach Working Group is through the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]. Select the Outreach group template (default).
 
-You can view the posts at [https://groups.google.com/forum/?fromgroups=#!forum/obo-foundry-outreach-working-group https://groups.google.com/forum/?fromgroups=#!forum/obo-foundry-outreach-working-group].
+The mailing list for the OFOC Outreach Working Group is [mailto:obo-foundry-outreach-working-group@googlegroups.com obo-foundry-outreach-working-group@googlegroups.com]. This is currently a closed list, but non-members can post to the list.
