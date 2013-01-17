@@ -1,5 +1,5 @@
 #summary OBO Foundry Operations Committee Technical WG
-#labels Featured
+#labels Featured,Technical
 
 = Introduction =
 
@@ -31,3 +31,9 @@ See [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWGM
 = DOCs =
 
  * [OBOPURLDomain How is the OBO PURL configured]
+
+= Contact Us =
+
+The best way to contact the OBO Foundry Technical Working Group is through the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]. Select the Technical group template or the Prefix/domain request template.
+
+The mailing list for the OBO Foundry Technical Working Group is [mailto:obo-foundry-editorial-working-group@googlegroups.com obo-foundry-editorial-working-group@googlegroups.com]. This is currently a closed list, but non-members can post to the list.
