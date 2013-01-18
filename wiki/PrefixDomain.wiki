@@ -11,6 +11,18 @@ This page describes how-to register a new prefix with the OBO Foundry and create
 
 Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker. 
 
+Template for PURL request:
+ * prefix
+ * title
+ * download link
+ * home page
+ * contact email
+ * mailing-list
+ * tracker link
+ * PURL user ID (if PURL is requested)
+
+Requests to be submitted at http://code.google.com/p/obo-foundry-operations-committee/issues/entry?template=Prefix/Domain%20creation
+
 On January 9th 2013, it was decided that resources requesting a PURL in the OBO domain should satisfy a minimal set of requirements, specifics of which need to be worked on
 
 Current proposal:
