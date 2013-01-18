@@ -11,7 +11,7 @@ This page describes how-to register a new prefix with the OBO Foundry and create
 
 Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker. 
 
-Template for PURL request:
+*Template for PURL request*:
  * prefix
  * title
  * download link
