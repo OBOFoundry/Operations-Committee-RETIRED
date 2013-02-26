@@ -3,6 +3,34 @@
 
 = Introduction =
 
+
+1. obo-discuss
+2. need a contact
+3. 1-2 weeks for objections
+4. name not in conflict
+5. no requirements for minimal review
+6. work needs to be started - there has to be a public file. Should be real project.
+
+
+We give the PURL but say that our expectations are at least attribution, better orthogonality
+
+What someone should expect when we give them a purl:
+You get the purl, a purl admin group, a domain (administered by you), add top level owl domain and add you as administrator
+Added to ontologies.txt? Yes for now.
+In future (to be dealt with when we switch to obo-registry)
+Not guaranteed to be listed on OBO foundry site or any promotion
+May change policies when move to obo registry.
+
+Who makes the OBO group? Chris, Alan, Carlo, Melanie
+PURL admin groups are group of users that have permissions on some PURL domains.
+Existing groups are OBI, IAO, chebi,....
+
+Naming convention for groups: obo-xxx
+Need to go back and update old ones
+
+Next step: Update wiki page with new policies.
+
+
 This page describes how-to register a new prefix with the OBO Foundry and create the corresponding PURL top-domain. To register a prefix or domain:
  # the required namespace must be free
  # the resource must be publicly available
@@ -36,18 +64,3 @@ Note that a formal policy has yet to be established, and the above is in flux. E
 
 
 = Details =
-
- * Add the prefix to the file ontologies.txt
-
-The files lives at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt]. Note that you will need to have sourceforge access to the OBO project at [https://sourceforge.net/projects/obo/ https://sourceforge.net/projects/obo/]
-
- * Add the tracker information
-In the file [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt]
-
- * Create the top-level PURL
-
-Please check the [http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide PURLGuide] beforehand if you are not familiar with the PURL software/interface.
-
-Go to [http://purl.org http://purl.org] and register the new domain as a subdomain of /obo/. Once logged in, go to the tab "Domains", option "create a new domain", and create the domain /obo/prefix (where prefix is the prefix chosen by the resource, e.g., IAO). Note that you need to have writing permission on the OBO domain to create subdomains.
-
-Note that if there's no /obo/$idspace.owl purl registered then the fallback is to direct to http://berkeleybop.org/ontologies/$idspace.owl, which is generated automatically by [http://www.obofoundry.org/wiki/index.php/Jenkins Jenkins].
