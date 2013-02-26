@@ -43,7 +43,7 @@ Please add your request to our tracker at http://code.google.com/p/obo-foundry-o
 == Requestor ==
  # You will get a PURL for your main file under the OBO PURL domain, as well as a domain. You will be part of the administrator group for those resources. In consequence, you should familiarize yourself with the PURL guide at http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide
  # As of today (February 26th 2013), when your prefix is registered it is automatically included for display on the OBO Foundry site. This may change in the future as we migrate our current registration system.
- # Once your domain is created under OBO, you will automatically benefit from our dereferencing tool, [http://www.ontobee.org Ontobee] If preferred you can of course redirect your pages towards your own browser.
+ # Once your domain is created under OBO, you will automatically benefit from our dereferencing tool, [http://www.ontobee.org Ontobee]. If preferred you can of course redirect your pages towards your own browser.
 
 = Details =
 For instructions on how to create the prefix/domain, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
