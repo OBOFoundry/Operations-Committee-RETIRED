@@ -48,3 +48,5 @@ Familiar with PURL guide
 
 = Details =
 For instructions on how to create the prefix/domain, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
+
+To understand how the OBO PURL domain/redirection works, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
