@@ -13,6 +13,10 @@ The files lives at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bi
  * Add the tracker information
 In the file [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt]
 
+ * Create the admin group
+
+Create a group with the name obo-IDSPACE (e.g., obo-IAO), and add the OBO group as well as the requester to it. This group will administer all PURLs related to that domain.
+
  * Create the top-level PURL
 
 Please check the [http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide PURLGuide] beforehand if you are not familiar with the PURL software/interface.
@@ -20,6 +24,8 @@ Please check the [http://code.google.com/p/obo-foundry-operations-committee/wiki
 Go to [http://purl.org http://purl.org] and register the new domain as a subdomain of /obo/. Once logged in, go to the tab "Domains", option "create a new domain", and create the domain /obo/prefix (where prefix is the prefix chosen by the resource, e.g., IAO). Note that you need to have writing permission on the OBO domain to create subdomains.
 
 Note that if there's no /obo/$idspace.owl purl registered then the fallback is to direct to http://berkeleybop.org/ontologies/$idspace.owl, which is generated automatically by [http://www.obofoundry.org/wiki/index.php/Jenkins Jenkins].
+
+
 
 = How does it work =
 == httpRange-14 ==
