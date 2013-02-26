@@ -1,41 +1,23 @@
 #summary HOWTO request a prefix and domain for a new resource
 #labels TechnicalWG,HOWTO
 
-= Introduction =
-
-
-1. obo-discuss
-2. need a contact
-3. 1-2 weeks for objections
-4. name not in conflict
-5. no requirements for minimal review
-6. work needs to be started - there has to be a public file. Should be real project.
-
-
-We give the PURL but say that our expectations are at least attribution, better orthogonality
-
-What someone should expect when we give them a purl:
-You get the purl, a purl admin group, a domain (administered by you), add top level owl domain and add you as administrator
-Added to ontologies.txt? Yes for now.
-In future (to be dealt with when we switch to obo-registry)
-Not guaranteed to be listed on OBO foundry site or any promotion
-May change policies when move to obo registry.
-
-Who makes the OBO group? Chris, Alan, Carlo, Melanie
-PURL admin groups are group of users that have permissions on some PURL domains.
-Existing groups are OBI, IAO, chebi,....
-
-Naming convention for groups: obo-xxx
-Need to go back and update old ones
-
-Next step: Update wiki page with new policies.
-
+= Prefix/Domain request policy =
 
 This page describes how-to register a new prefix with the OBO Foundry and create the corresponding PURL top-domain. To register a prefix or domain:
  # the required namespace must be free
  # the resource must be publicly available
  # there must be a contact person for the resource
  # the requestor should be ready to discuss issues such as whether the ontology is orthogonal, whether there is potential to collaborate with existing efforts.
+
+ # new ontology proposals and ID space requests go to obo-discuss
+ # It is expected that solicitation of a prefix is done *before* the prefix is used for identifiers. A common strategy is to develop an ontology, request a prefix, and translate the initial URIs used to the PURLs some time before the initial release.
+ # Expect a delay (at least  2 weeks) in order to give members of the community to weigh in on whether the ontology or the ID space (e.g. it conflicts with a possible future ontology, or an existing resource). In addition time is needed  to let the prefix administrators do their review. 
+
+# no requirements for minimal review
+# work needs to be started - there has to be a public file. Should be real project.
+
+
+= Prefix/Domain request process = 
 
 Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker. 
 
@@ -51,16 +33,21 @@ Ideally, requesters should also submit links to their project homepage/documenta
 
 Requests to be submitted at http://code.google.com/p/obo-foundry-operations-committee/issues/entry?template=Prefix/Domain%20creation
 
-On January 9th 2013, it was decided that resources requesting a PURL in the OBO domain should satisfy a minimal set of requirements, specifics of which need to be worked on
 
-Current proposal:
- # new ontology proposals and ID space requests go to obo-discuss
- # It is expected that solicitation of a prefix is done *before* the prefix is used for identifiers. A common strategy is to develop an ontology, request a prefix, and translate the initial URIs used to the PURLs some time before the initial release.
- # Expect a delay (at least  2 weeks) in order to give members of the community to weigh in on whether the ontology or the ID space (e.g. it conflicts with a possible future ontology, or an existing resource). In addition time is needed  to let the prefix administrators do their review. 
- # Allocation of a prefix _may_ be tied to an assessment of the perceived utility or strategy of the ontology proposed
- # one of the various committees, working groups, secretariats, etc then rules on whether the ID space is to be granted. 
 
-Note that a formal policy has yet to be established, and the above is in flux. Edit this page to add comments or suggestions.
+= Expectations = 
+We give the PURL but say that our expectations are at least attribution, better orthogonality
+
+What someone should expect when we give them a purl:
+You get the purl, a purl admin group, a domain (administered by you), add top level owl domain and add you as administrator
+Added to ontologies.txt? Yes for now.
+In future (to be dealt with when we switch to obo-registry)
+Not guaranteed to be listed on OBO foundry site or any promotion
+May change policies when move to obo registry.
+
+Familiar with PURL guide
+
+
 
 
 = Details =
