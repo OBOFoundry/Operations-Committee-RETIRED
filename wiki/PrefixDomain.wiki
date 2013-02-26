@@ -8,18 +8,14 @@ This page describes how-to register a new prefix with the OBO Foundry and create
  # the resource must be publicly available
  # there must be a contact person for the resource
  # the requestor should be ready to discuss issues such as whether the ontology is orthogonal, whether there is potential to collaborate with existing efforts.
-
  # new ontology proposals and ID space requests go to obo-discuss
  # It is expected that solicitation of a prefix is done *before* the prefix is used for identifiers. A common strategy is to develop an ontology, request a prefix, and translate the initial URIs used to the PURLs some time before the initial release.
  # Expect a delay (at least  2 weeks) in order to give members of the community to weigh in on whether the ontology or the ID space (e.g. it conflicts with a possible future ontology, or an existing resource). In addition time is needed  to let the prefix administrators do their review. 
-
 # no requirements for minimal review
 # work needs to be started - there has to be a public file. Should be real project.
 
 
 = Prefix/Domain request process = 
-
-Ideally, requesters should also submit links to their project homepage/documentation, as well as a link to a tracker. 
 
 *Template for PURL request*:
  * prefix
