@@ -11,8 +11,8 @@ This page describes how-to register a new prefix with the OBO Foundry and create
  # The resource must be publicly available.
  # There must be a contact person for the resource.
  # The requestor and/or contact person should be ready to discuss issues such as whether the ontology is orthogonal, whether there is potential to collaborate with existing efforts. 
- # It is expected that solicitation of a prefix is done before the prefix is used for identifiers. A common strategy is to develop an ontology, request a prefix, and translate the initial URIs used to the PURLs some time before the initial release. *There is no guarantee that you will be granted your prefix, even if you have been using it in your file*
- # Expect a delay (up to 2 weeks) in order to give members of the community time to provide feedback
+ # It is expected that solicitation of a prefix is done before the prefix is used for identifiers. A common strategy is to develop an ontology, request a prefix, and translate the initial URIs used to the PURLs some time before the initial release. *There is no guarantee that you will be granted your prefix, even if you have been using it in your file*.
+ # Expect a delay (up to 2 weeks) in order to give members of the community time to provide feedback.
 
 
 = Prefix/Domain request process = 
@@ -43,7 +43,7 @@ Please add your request to our tracker at http://code.google.com/p/obo-foundry-o
 == Requestor ==
  # You will get a PURL for your main file under the OBO PURL domain, as well as a domain. You will be part of the administrator group for those resources. In consequence, you should familiarize yourself with the PURL guide at http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide
  # As of today (February 26th 2013), when your prefix is registered it is automatically included for display on the OBO Foundry site. This may change in the future as we migrate our current registration system.
- # once your domain is created under OBO, you will automatically benefit from our dereferencing tool, [http://www.ontobee.org Ontobee] If preferred you can of course redirect your pages towards your own browser.
+ # Once your domain is created under OBO, you will automatically benefit from our dereferencing tool, [http://www.ontobee.org Ontobee] If preferred you can of course redirect your pages towards your own browser.
 
 = Details =
 For instructions on how to create the prefix/domain, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
