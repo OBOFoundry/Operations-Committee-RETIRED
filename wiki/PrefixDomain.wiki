@@ -1,4 +1,4 @@
-#summary HOWTO create a prefix and domain for a new resource
+#summary HOWTO request a prefix and domain for a new resource
 #labels TechnicalWG,HOWTO
 
 = Introduction =
@@ -64,3 +64,4 @@ Note that a formal policy has yet to be established, and the above is in flux. E
 
 
 = Details =
+For instructions on how to create the prefix/domain, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
