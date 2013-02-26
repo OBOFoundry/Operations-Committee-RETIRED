@@ -4,8 +4,25 @@
 
 To enable URI dereferencing while allowing users to keep control over their resources, we implemented a resolution system in multiple steps.
 
+= Create the prefix/domain =
 
-= httpRange-14 =
+ * Add the prefix to the file ontologies.txt
+
+The files lives at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt]. Note that you will need to have sourceforge access to the OBO project at [https://sourceforge.net/projects/obo/ https://sourceforge.net/projects/obo/]
+
+ * Add the tracker information
+In the file [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt]
+
+ * Create the top-level PURL
+
+Please check the [http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide PURLGuide] beforehand if you are not familiar with the PURL software/interface.
+
+Go to [http://purl.org http://purl.org] and register the new domain as a subdomain of /obo/. Once logged in, go to the tab "Domains", option "create a new domain", and create the domain /obo/prefix (where prefix is the prefix chosen by the resource, e.g., IAO). Note that you need to have writing permission on the OBO domain to create subdomains.
+
+Note that if there's no /obo/$idspace.owl purl registered then the fallback is to direct to http://berkeleybop.org/ontologies/$idspace.owl, which is generated automatically by [http://www.obofoundry.org/wiki/index.php/Jenkins Jenkins].
+
+= How does it work =
+== httpRange-14 ==
 
 When resolving IRIs, there is an ambiguity between what non-hash IRIs denote in real life (e.g, a car) and what is returned upon querying for them, i.e., a document. The W3C Technical Architecture Group (TAG) establishes a best practice to make the range of HTTP responses less ambivalent, by agreeing that (cite 1): 
  * If an "http" resource responds to a GET request with a 2xx response, then the resource identified by that URI is an information resource;
@@ -15,12 +32,12 @@ When resolving IRIs, there is an ambiguity between what non-hash IRIs denote in 
 Our architecture follows the recommendation of the TAG, and all requests to access IRIs result in an HTTP response status code 303. We add an extra step to the above by using a Canonical Name Record (CNAME)  for purl.obolibrary.org, which is an alias for http://www.berkeleybop.org/ontologies/. This allows us to leverage existing infrastructure - the PURL resolver - while allowing for immediate redirection should it fail.
 Ultimately, the server responds with a 200 and sends back the RDF/XML document that describes the resource, thereby identified as an information resource as per the httpRange-14. 
 
-= Practical examples = 
+== Practical examples == 
 
-== Request for /obo/aero.owl ==
+=== Request for /obo/aero.owl ===
 This takes precedence over the general PURL redirection for the /obo/ domain as it is a more specific PURL.
 
-== Request for http://purl.obolibrary.org/obo/IAO_1234567 ==
+=== Request for http://purl.obolibrary.org/obo/IAO_1234567 ===
  * http://purl.obolibrary.org/ is a CNAME (i.e. an alias) that redirect to purl.org
  * purl.org/obo/ gets redirected to the berkeley server
  * the berkeley server has a rule such that IRIs looking like OBO IDs are redirected to /obo/NS/about/ID, where NS is the prefix (e.g. IAO) and the ID is IAO_1234567
