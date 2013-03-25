@@ -8,7 +8,10 @@ To enable URI dereferencing while allowing users to keep control over their reso
 
  * Add the prefix to the file ontologies.txt
 
-The files lives at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt]. Note that you will need to have sourceforge access to the OBO project at [https://sourceforge.net/projects/obo/ https://sourceforge.net/projects/obo/]
+*CHANGE MARCH 25th 2013*
+
+Due to the Sourceforge upgrade, we have to switch to using the ontologies.txt in the obo-registry repository at http://obo-registry.googlecode.com/svn/trunk/metadata/ontologies.txt. Note that you will need to have committing rights on the google code project at [https://code.google.com/p/obo-registry/ https://code.google.com/p/obo-registry/]
+After editing, copy the file and commit it under the OBO SF CVS at [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt]. Note that you will need to have sourceforge access to the OBO project at [https://sourceforge.net/projects/obo/ https://sourceforge.net/projects/obo/]
 
  * Add the tracker information
 In the file [http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/trackers.txt]
