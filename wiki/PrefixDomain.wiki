@@ -1,6 +1,30 @@
 #summary HOWTO request a prefix and domain for a new resource
 #labels TechnicalWG,HOWTO
 
+
+= Background =
+
+Identifiers are managed by giving groups a series of numerical ids that have a common prefix,_sometimes known as a _namespace_. For example, a group might have the prefix "MOBO", and then the group would use ids of the form http://purl.obolibrary.org/obo/MOBO_0000001 , http://purl.obolibrary.org/obo/MOBO_0000002 ...
+
+In order to ensure that there is not overlap of use of these prefixes, these are allocated by the OBO Foundry operations team. 
+
+While the group reserves the right to make decisions based on their experience and judgement, generally the criteria are that there not be overlaps of usage, as well as awareness that there can be the appearance of overlap between accession numbers used in databases and prefixed URIs. Therefore the group may decide against against allocating a namespace in order to avoid such appearances of conflict.
+
+= Expectations = 
+
+== OBO ==
+ # While there are no review requirements, participation in the OBO Foundry implies willingness to discuss your project and collaboratively develop it. You are strongly encouraged to build upon the existing suite of ontologies available in the OBO library. 
+ # We recommend projects be orthogonal to each other (i.e., no domain overlap) and that for those classes that are common across multiple resources (e.g., the class _cell_) an import be performed. At a minimum, we expect attribution of existing work.
+
+= Procedure =
+
+== Requestor ==
+ # You will get a PURL for your main file under the OBO PURL domain, as well as a domain. You will be part of the administrator group for those resources. In consequence, you should familiarize yourself with the PURL guide at http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide
+ # As of today (February 26th 2013), when your prefix is registered it is automatically included for display on the OBO Foundry site. This may change in the future as we migrate our current registration system.
+ # Once your domain is created under OBO, you will automatically benefit from our dereferencing tool, [http://www.ontobee.org Ontobee]. If preferred you can of course redirect your pages towards your own browser.
+
+
+
 This page describes how-to register a new prefix with the OBO Foundry and create the corresponding PURL top-domain.
 
 = Prefix/Domain request policy =
