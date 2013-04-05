@@ -4,7 +4,7 @@
 
 = Background =
 
-Identifiers are managed by giving groups a series of numerical ids that have a common prefix,_sometimes known as a _namespace_. For example, a group might have the prefix "MOBO", and then the group would use ids of the form http://purl.obolibrary.org/obo/MOBO_0000001 , http://purl.obolibrary.org/obo/MOBO_0000002 ...
+Identifiers are managed by giving groups a series of numerical ids that have a common prefix, _sometimes known as a _namespace_. For example, a group might have the prefix "MOBO", and then the group would use ids of the form http://purl.obolibrary.org/obo/MOBO_0000001 , http://purl.obolibrary.org/obo/MOBO_0000002 ...
 
 In order to ensure that there is not overlap of use of these prefixes, these are allocated by the OBO Foundry operations team. 
 
