@@ -10,7 +10,7 @@ In order to ensure that there is not overlap of use of these prefixes, these are
 
 While the group reserves the right to make decisions based on their experience and judgement, generally the criteria are that there not be overlaps of usage. This includes awareness that there can be the appearance of overlap between accession numbers used in databases and [http://www.w3.org/TR/curie/ prefixed URIs]. Therefore the group may decide against against allocating a namespace in order to avoid such appearances of conflict.
 
-= Expectations = 
+= Process = 
 
 == OBO ==
  # While there are no review requirements, participation in the OBO Foundry implies willingness to discuss your project and collaboratively develop it. You are strongly encouraged to build upon the existing suite of ontologies available in the OBO library. 
@@ -55,5 +55,6 @@ The requests proceeds in 2 steps:
 Allocate 2 weeks to give members of the community time to provide feedback and for the operations committee to act on the request. You should receive a response in 2-3 weeks at most.
 
 
-= Details =
-For instructions on how to create the prefix/domain, or to understand how the OBO PURL domain/redirection works, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
+= For more information =
+
+For instructions on how to create the prefix/domain at purl.org, or to understand how the OBO PURL domain/redirection works, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
