@@ -16,58 +16,34 @@ While the group reserves the right to make decisions based on their experience a
  # While there are no review requirements, participation in the OBO Foundry implies willingness to discuss your project and collaboratively develop it. You are strongly encouraged to build upon the existing suite of ontologies available in the OBO library. 
  # We recommend projects be orthogonal to each other (i.e., no domain overlap) and that for those classes that are common across multiple resources (e.g., the class _cell_) an import be performed. At a minimum, we expect attribution of existing work.
 
-= Procedure =
-
 == Requestor ==
+
  # You will get a PURL for your main file under the OBO PURL domain, as well as a domain. You will be part of the administrator group for those resources. In consequence, you should familiarize yourself with the PURL guide at http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide
  # As of today (February 26th 2013), when your prefix is registered it is automatically included for display on the OBO Foundry site. This may change in the future as we migrate our current registration system.
  # Once your domain is created under OBO, you will automatically benefit from our dereferencing tool, [http://www.ontobee.org Ontobee]. If preferred you can of course redirect your pages towards your own browser.
 
+== To register a prefix or domain =-
 
-
-This page describes how-to register a new prefix with the OBO Foundry and create the corresponding PURL top-domain.
-
-= Prefix/Domain request policy =
-
- To register a prefix or domain:
  # A project should exist, with work started. We will not "pre-book" prefixes and domains for potential future resources.
  # The required namespace must be free.
  # The resource must be publicly available.
- # There must be a contact person for the resource.
+ # There must be a contact person for the resource. We ask that the contact person for resources be subscribed to our main communication channel, the obo-discuss list. Please send an email to [https://lists.sourceforge.net/lists/listinfo/obo-discuss obo-discuss] with your request to allow community feedback (you may need to register first)
  # The requestor and/or contact person should be ready to discuss issues such as whether the ontology is orthogonal, whether there is potential to collaborate with existing efforts. 
  # It is expected that solicitation of a prefix is done before the prefix is used for identifiers. A common strategy is to develop an ontology, request a prefix, and translate the initial URIs used to the PURLs some time before the initial release. *There is no guarantee that you will be granted your prefix, even if you have been using it in your file*.
  # Expect a delay (up to 2 weeks) in order to give members of the community time to provide feedback.
 
+= Include this information in a prefix request = 
 
-= Prefix/Domain request process = 
-
-*Template for PURL request*:
- * prefix
- * title
- * download link
- * home page
- * contact email
- * mailing-list
- * tracker link
- * PURL user ID (if PURL is requested)
-
-We ask that the contact person for resources be subscribed to our main communication channel, the obo-discuss list. Please send an email to [https://lists.sourceforge.net/lists/listinfo/obo-discuss obo-discuss] with your request to allow community feedback (you may need to register first)
+ * requested prefix
+ * ontology title
+ * ontology download link
+ * ontology home page
+ * point person contact email
+ * ontology discussion mailing-list
+ * ontology issue tracker link
+ * purl.org user ID - please register there if you don't have one
 
 Please add your request to our tracker at http://code.google.com/p/obo-foundry-operations-committee/issues/entry?template=Prefix/Domain%20creation
-
-
-
-
-= Expectations = 
-
-== OBO ==
- # While there are no review requirements, participation in the OBO Foundry implies willingness to discuss your project and collaboratively develop it. You are strongly encouraged to build upon the existing suite of ontologies available in the OBO library. 
- # We recommend projects be orthogonal to each other (i.e., no domain overlap) and that for those classes that are common across multiple resources (e.g., the class _cell_) an import be performed. At a minimum, we expect attribution of existing work.
-
-== Requestor ==
- # You will get a PURL for your main file under the OBO PURL domain, as well as a domain. You will be part of the administrator group for those resources. In consequence, you should familiarize yourself with the PURL guide at http://code.google.com/p/obo-foundry-operations-committee/wiki/PURLGuide
- # As of today (February 26th 2013), when your prefix is registered it is automatically included for display on the OBO Foundry site. This may change in the future as we migrate our current registration system.
- # Once your domain is created under OBO, you will automatically benefit from our dereferencing tool, [http://www.ontobee.org Ontobee]. If preferred you can of course redirect your pages towards your own browser.
 
 = Details =
 For instructions on how to create the prefix/domain, or to understand how the OBO PURL domain/redirection works, see http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain
