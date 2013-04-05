@@ -1,6 +1,7 @@
 #summary HOWTO request a prefix and domain for a new resource
 #labels TechnicalWG,HOWTO
 
+This policy has been formally adopted on April 8th 2013. Do not edit this page without consulting with the OBO Technical group.
 
 = Background =
 
@@ -48,7 +49,14 @@ The requests proceeds in 2 steps:
 
  # First send an email to [https://lists.sourceforge.net/lists/listinfo/obo-discuss obo-discuss] with your request to allow community feedback (you may need to register first)
 
- # After any discussion there, add your, perhaps modified, request to our tracker at http://code.google.com/p/obo-foundry-operations-committee/issues/entry?template=Prefix/Domain%20creation
+ # Submit your request to our tracker at http://code.google.com/p/obo-foundry-operations-committee/issues/entry?template=Prefix/Domain%20creation
+
+We expect general discussion to take place on the obo-discuss list, while technical follow-up will take place on the tracker.
+
+Example of such request:
+ # CHMO
+obo-discuss at http://sourceforge.net/mailarchive/message.php?msg_id=30557802
+tracker at http://code.google.com/p/obo-foundry-operations-committee/issues/detail?id=61
 
 == Response ==
 
