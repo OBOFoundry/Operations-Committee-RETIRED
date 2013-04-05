@@ -5,11 +5,11 @@
 
 = Background =
 
-Identifiers are managed by giving groups a series of numerical ids that have a common prefix, sometimes known as a _namespace_. For example, a group might have the prefix "MOBO", and then the group would use ids of the form http://purl.obolibrary.org/obo/MOBO_0000001 , http://purl.obolibrary.org/obo/MOBO_0000002 ...
+Identifiers are managed by giving requesting projects a series of numerical ids that have a common prefix, sometimes known as a _namespace_. For example, a project might request and obtain the prefix "MOBO", and then the ontology would use ids of the form http://purl.obolibrary.org/obo/MOBO_0000001 , http://purl.obolibrary.org/obo/MOBO_0000002 ...
 
-In order to ensure that there is not overlap of use of these prefixes, these are allocated by the OBO Foundry operations team. 
+In order to ensure that there is no prefix redundancy (e.g., only one project/resource is using the namespace "MOBO"), these are allocated by the OBO Foundry technical working group. 
 
-While the group reserves the right to make decisions based on their experience and judgement, generally the criteria are that there not be overlaps of usage. This includes awareness that there can be the appearance of overlap between accession numbers used in databases and [http://www.w3.org/TR/curie/ prefixed URIs]. Therefore the group may decide against against allocating a namespace in order to avoid such appearances of conflict.
+The technical working group reserves the right to make decisions based on their experience and judgement. In addition to uniqueness of prefixes, other criteria are for example that there not be overlaps of usage. This includes awareness that there can be the appearance of overlap between accession numbers used in databases and [http://www.w3.org/TR/curie/ prefixed URIs]. 
 
 = Process = 
 
