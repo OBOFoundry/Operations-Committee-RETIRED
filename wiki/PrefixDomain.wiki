@@ -8,7 +8,7 @@ Identifiers are managed by giving groups a series of numerical ids that have a c
 
 In order to ensure that there is not overlap of use of these prefixes, these are allocated by the OBO Foundry operations team. 
 
-While the group reserves the right to make decisions based on their experience and judgement, generally the criteria are that there not be overlaps of usage, as well as awareness that there can be the appearance of overlap between accession numbers used in databases and prefixed URIs. Therefore the group may decide against against allocating a namespace in order to avoid such appearances of conflict.
+While the group reserves the right to make decisions based on their experience and judgement, generally the criteria are that there not be overlaps of usage. This includes awareness that there can be the appearance of overlap between accession numbers used in databases and [http://www.w3.org/TR/curie/ prefixed URIs]. Therefore the group may decide against against allocating a namespace in order to avoid such appearances of conflict.
 
 = Expectations = 
 
