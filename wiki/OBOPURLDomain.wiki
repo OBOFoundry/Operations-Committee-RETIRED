@@ -30,11 +30,11 @@ Note that if there's no /obo/$idspace.owl purl registered then the fallback is t
 
  * Update original tracker ticket
 
-- created PURL group obo-idspace
-- created PURL domain /obo/idspace (pending approval)
-- created obo/idspace.owl purl
-- added metadata in ontologies.txt (under obo-registry, copied under CVS)
-- added tracker info in trackers.txt (under CVS)
+   * created PURL group obo-idspace
+   * created PURL domain /obo/idspace (pending approval)
+   * created obo/idspace.owl purl
+   * added metadata in ontologies.txt (under obo-registry, copied under CVS)
+   * added tracker info in trackers.txt (under CVS)
 
 TODO: check domain approval in a few days.
 
