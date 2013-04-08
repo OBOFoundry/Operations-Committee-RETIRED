@@ -28,6 +28,15 @@ Go to [http://purl.org http://purl.org] and register the new domain as a subdoma
 
 Note that if there's no /obo/$idspace.owl purl registered then the fallback is to direct to http://berkeleybop.org/ontologies/$idspace.owl, which is generated automatically by [http://www.obofoundry.org/wiki/index.php/Jenkins Jenkins].
 
+ * Update original tracker ticket
+
+- created PURL group obo-idspace
+- created PURL domain /obo/idspace (pending approval)
+- created obo/idspace.owl purl
+- added metadata in ontologies.txt (under obo-registry, copied under CVS)
+- added tracker info in trackers.txt (under CVS)
+
+TODO: check domain approval in a few days.
 
 
 = How does it work =
