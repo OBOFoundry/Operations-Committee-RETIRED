@@ -60,8 +60,8 @@ Example of such request:
 
 == Response ==
 
-Allocate 2 weeks to give members of the community time to provide feedback and for the operations committee to act on the request. You should receive a response in 2-3 weeks at most.
-
+Allocate 2 weeks to give members of the community time to provide feedback and for the operations committee to act on the request. We will usually respond on the tracker ticket and acknowledge your request/provide a tentative creation date.
+If you don't hear back from us after 2 weeks, please send a note to the [mailto:obo-foundry-technical-working-group@googlegroups.com obo-foundry-technical-working-group@googlegroups.com] or request follow-up via the tracker ticket.
 
 = For more information =
 
