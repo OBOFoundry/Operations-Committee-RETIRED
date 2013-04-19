@@ -1,4 +1,5 @@
 #summary HOWTO request a prefix and domain for a new resource
+#labels Featured,HOWTO,TechnicalWG
 
 *This policy has been formally adopted on April 19th 2013. Do not edit this page without consulting with the OBO Technical group.* Comments to [mailto:obo-discuss@lists.sourceforge.net obo-discuss@lists.sourceforge.net]
 
