@@ -1,10 +1,9 @@
 #summary Table of contents
 
-=Outreach group=
-[http://code.google.com/p/obo-foundry-operations-committee/wiki/OutreachWG Home]
-=Editorial group=
-[http://code.google.com/p/obo-foundry-operations-committee/wiki/EditorialWG Home]
-=Technical group=
-  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWG Home]
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/OutreachWG Outreach group]
+
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/EditorialWG Editorial group]
+
+[http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWG Technical group]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/Policy_for_OBO_namespace_and_associated_PURL_requests PURL requests]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain OBO PURL configuration]
