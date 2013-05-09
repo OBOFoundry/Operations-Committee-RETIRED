@@ -1,10 +1,10 @@
 #summary Table of contents
 
 Operations committee
-[http://code.google.com/p/obo-foundry-operations-committee/wiki/CommitteeMeetings Meetings]
-[http://code.google.com/p/obo-foundry-operations-committee/wiki/OperationsCommitteePolicyDecisions Policy decisions] 
-[http://code.google.com/p/obo-foundry-operations-committee/wiki/MailingLists Mailing-lists]
-[http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOCalendar OBO calendar]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/CommitteeMeetings Meetings]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/OperationsCommitteePolicyDecisions Policy decisions] 
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/MailingLists Mailing-lists]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOCalendar OBO calendar]
 
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/OutreachWG Outreach group]
 
