@@ -5,6 +5,6 @@
 =Editorial group=
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/EditorialWG Home]
 =Technical group=
-  [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWG Home]
-  [http://code.google.com/p/obo-foundry-operations-committee/wiki/Policy_for_OBO_namespace_and_associated_PURL_requests PURL requests]
-  [http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain OBO PURL configuration]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWG Home]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/Policy_for_OBO_namespace_and_associated_PURL_requests PURL requests]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain OBO PURL configuration]
