@@ -40,7 +40,7 @@ Note that if there's no /obo/$idspace.owl purl registered then the fallback is t
 = How does it work =
 == httpRange-14 ==
 
-When resolving IRIs, there is an ambiguity between what non-hash IRIs denote in real life (e.g, a car) and what is returned upon querying for them, i.e., a document. The W3C Technical Architecture Group (TAG) establishes a best practice to make the range of HTTP responses less ambivalent, by agreeing that (cite 1): 
+When resolving IRIs, there is an ambiguity between what non-hash IRIs denote in real life (e.g, a car) and what is returned upon querying for them, i.e., a document. The W3C Technical Architecture Group (TAG) establishes a best practice to make the range of HTTP responses less ambiguous, by agreeing that (cite 1): 
  * If an "http" resource responds to a GET request with a 2xx response, then the resource identified by that URI is an information resource;
  * If an "http" resource responds to a GET request with a 303 (See Other) response, then the resource identified by that URI could be any resource;
  * If an "http" resource responds to a GET request with a 4xx (error) response, then the nature of the resource is unknown.
@@ -58,20 +58,23 @@ This takes precedence over the general PURL redirection for the /obo/ domain as 
  * purl.org/obo/ gets redirected to the berkeley server
  * the berkeley server has a rule such that IRIs looking like OBO IDs are redirected to /obo/NS/about/ID, where NS is the prefix (e.g. IAO) and the ID is IAO_1234567
 
-` ## INHERIT:`
-` ## OBO Redirect from Alan`
-` RewriteRule ^/ontologies/(\w+)_(\d+)`
-`http://purl.obolibrary.org/obo/$1/about/$1_$2  [R=303,L]`
+{{{
+## INHERIT:
+## OBO Redirect from Alan
+RewriteRule ^/ontologies/(\w+)_(\d+) http://purl.obolibrary.org/obo/$1/about/$1_$2  [R=303,L]
+}}}
 
 
  * if developers of a resource set up a partial redirect such that purl.org/obo/NS/about/ it will redirect to the location they such indicate
  * otherwise a rule will catch those back on the berkeley server
 
-`## Fallthough OBO catch.`
-`## If the rewrite below ends back up at us, then use the stand-in`
-`## page on ontobee.`
-`RewriteRule ^/ontologies/\S+/about/(\S+)_(\d+)`
-`http://www.ontobee.org/browser/rdf.php?o=$1&iri=http://purl.obolibrary.org/obo/$1_$2`
+{{{
+## Fallthough OBO catch.
+## If the rewrite below ends back up at us, then use the stand-in
+## page on ontobee.
+RewriteRule ^/ontologies/\S+/about/(\S+)_(\d+)
+http://www.ontobee.org/browser/rdf.php?o=$1&iri=http://purl.obolibrary.org/obo/$1_$2
+}}}
 redirects to Ontobee where the IRIs are dereferenced.
 
 
