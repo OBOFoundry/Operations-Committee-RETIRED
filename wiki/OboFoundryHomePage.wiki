@@ -1,0 +1,6 @@
+#Links to stuff you need to know about to understand how that's created
+
+= Metadata =
+
+ * Currently pulled out of http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/cgi-bin/ontologies.txt
+ * CGI that creates it http://obo.cvs.sourceforge.net/viewvc/obo/obo/website/htdocs/index.cgi?view=log
