@@ -28,6 +28,6 @@ You know want to set up Protege so that future entities you create are, by defau
 
 http://obo-foundry-operations-committee.googlecode.com/svn/wiki/img/SettingUpProtege3.png
 
-Each entity should start with http://purl.obolibrary.org/obo, followed by a /, and ending with an auto-generated ID. This auto-generated ID should be numeric and iterative, and start with the EPO\_ prefix, and use 7 digits. Here, you will need to know which is the latest ID you used in the file so as not to overwrite existing entities. To do so, you can open the .owl file using a text editor - Protege writes them in order. For EPO, the last ID is 140, so we'll ask to start at 141.
+Each entity should start with http://purl.obolibrary.org/obo, followed by a /, and ending with an auto-generated ID. This auto-generated ID should be numeric and iterative, and start with the `EPO_` prefix, and use 7 digits. Here, you will need to know which is the latest ID you used in the file so as not to overwrite existing entities. To do so, you can open the .owl file using a text editor - Protege writes them in order. For EPO, the last ID is 140, so we'll ask to start at 141.
 
 Don't close the text file yet; you want to update existing IDs. In the EPO case, we want to replace http://epidemiology_ontology.owl#EO: with http://purl.obolibrary.org/obo/EPO_. If you are using an XML entity as shortcut, you also want to replace this. Here for example, &epidemiology_ontology;EO: should also be replaced by http://purl.obolibrary.org/obo/EPO_
