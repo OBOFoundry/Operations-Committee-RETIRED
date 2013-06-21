@@ -17,3 +17,4 @@ Operations committee
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWG Technical group]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/Policy_for_OBO_namespace_and_associated_PURL_requests PURL requests]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/OBOPURLDomain OBO PURL configuration]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/SettingUpProtege Setting up Protege 4.3]
