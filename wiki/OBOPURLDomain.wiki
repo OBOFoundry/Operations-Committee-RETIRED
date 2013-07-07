@@ -72,7 +72,7 @@ http://purl.obolibrary.org/obo/$1/about/$1_$2  [R=303,L]
 ## Fallthough OBO catch.
 ## If the rewrite below ends back up at us, then use the stand-in
 ## page on ontobee.
-    RewriteRule ^/ontologies/\w+/about/(\w+)_([A-Za-z0-9]+) 
+RewriteRule ^/ontologies/\w+/about/(\w+)_([A-Za-z0-9]+) 
 http://www.ontobee.org/browser/rdf.php?o=$1&iri=http://purl.obolibrary.org/obo/$1_$2
 }}}
 redirects to Ontobee where the IRIs are dereferenced.
