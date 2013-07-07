@@ -61,7 +61,8 @@ This takes precedence over the general PURL redirection for the /obo/ domain as 
 {{{
 ## INHERIT:
 ## OBO Redirect from Alan
-RewriteRule ^/ontologies/(\w+)_([A-Za-z0-9]+) http://purl.obolibrary.org/obo/$1/about/$1_$2  [R=303,L]
+RewriteRule ^/ontologies/(\w+)_([A-Za-z0-9]+) 
+http://purl.obolibrary.org/obo/$1/about/$1_$2  [R=303,L]
 }}}
 
  * if developers of a resource set up a partial redirect such that purl.org/obo/NS/about/ it will redirect to the location they such indicate
