@@ -17,6 +17,6 @@ Any ontology group wanting a review by the Editorial WG must submit a request on
 
 = How to request an ontology review =
 
-  #Go to the OBO Foundry Operations Committee [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker].
-  #Click on "New issue".
-  #Select the "Review request" template and follow the instructions on the template.
+  # Go to the OBO Foundry Operations Committee [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker].
+  # Click on "New issue".
+  # Select the "Review request" template and follow the instructions on the template.
