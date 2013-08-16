@@ -1,8 +1,6 @@
 #summary Guidelines for establishing a fair, efficient, and useful ontology review process.
 #labels Editorial
 
-= Ontology Review Process =
-
 This page deals with policies and guidelines for the process of ontology review, particularly operational aspects such as:
 
  * which ontologies should be reviewed, and in what order?
@@ -11,6 +9,10 @@ This page deals with policies and guidelines for the process of ontology review,
 
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaPolicies ReviewCriteriaPolicies] covers guidelines and policies for the criteria by which an ontology should be reviewed.
 
-= Draft guidelines and policies = 
+= Ontology review priority = 
 
-Link to draft of ontology review policy guidelines.
+Ontologies will be reviewed in the order in which the review request is received. If an ontology previously submitted a request for an OBO Foundry review (that is, before this committee was formed), then the date of the original request is used to determine priority.
+
+Any ontology wanted to be reviewed by the Editorial WG must submit a request on the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]
+
+= How to request an ontology review =
