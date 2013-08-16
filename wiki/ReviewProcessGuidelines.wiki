@@ -13,6 +13,10 @@ This page deals with policies and guidelines for the process of ontology review,
 
 Ontologies will be reviewed in the order in which the review request is received. If an ontology previously submitted a request for an OBO Foundry review (that is, before this committee was formed), then the date of the original request is used to determine priority.
 
-Any ontology wanted to be reviewed by the Editorial WG must submit a request on the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]
+Any ontology group wanting a review by the Editorial WG must submit a request on the [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker]
 
 = How to request an ontology review =
+
+  #Go to the OBO Foundry Operations Committee [http://code.google.com/p/obo-foundry-operations-committee/issues/list issue tracker].
+  #Click on "New issue".
+  #Select the "Review request" template and follow the instructions on the template.
