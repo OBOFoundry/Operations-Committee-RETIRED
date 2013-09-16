@@ -3,6 +3,4 @@
 
 = Ontology Review Management =
 
-This page covers guidelines for managing reviews. The review management process will be based on the [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewProcessGuidelines ontology review process guidelines] and the [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaPolicies ontology review criteria policies]. 
-
-This wiki page may not be necessary, if the other two pages cover all material.
+This page was originally created to cover guidelines for managing reviews. That material is not covered in the [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewProcessGuidelines ontology review process guidelines] and the [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaPolicies ontology review criteria policies]. 
