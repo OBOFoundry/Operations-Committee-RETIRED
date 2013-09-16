@@ -11,7 +11,6 @@ Operations committee
 
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/EditorialWG Editorial group]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewProcessGuidelines Review process]
-  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewManagementGuidelines Review management/workflow]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/ReviewCriteriaPolicies Review criteria]
 
 [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWG Technical group]
