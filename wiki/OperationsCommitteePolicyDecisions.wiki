@@ -1,6 +1,7 @@
 #summary This page summarizes the accepted procedure for formalizing new policies for the OBO Foundry Operations Committee
+#labels policy,locked
 
-Proposal. This page is under review and subject to change.
+This policy has been formally adopted on October 16th 2013. Do not edit this page without consulting with the OBO Foundry Operations Committee. Comments should be added to the [http://code.google.com/p/obo-foundry-operations-committee/issues/list tracker].
 
 = How to add a new policy =
 
