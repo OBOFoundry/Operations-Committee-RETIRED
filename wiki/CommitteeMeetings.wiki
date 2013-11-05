@@ -11,6 +11,8 @@ This page lists the various meetings held by the OBO Foundry Operations Committe
 == OFOC meetings ==
 Please sign up to chair a meeting. The chair should create agenda, host call, clean up minutes, etc.
 
+If you chairing a meeting, you can claim the host role on Webex by using the host key on [https://docs.google.com/document/d/1gbPmgag2zWiyX244Ss-CuXKOVhllfEUjEdBKZ6fXDdQ/edit this page].
+
 ||meeting date||chair||link to minutes||
 ||9 Dec 2013||Carlo||||
 ||13 Nov 2013||Colin||||
