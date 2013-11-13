@@ -32,6 +32,8 @@ If you chairing a meeting, you can claim the host role on Webex by using the hos
 ||12 Sep 2012||RW||[https://docs.google.com/document/d/18Flr-Kbvb3dOwEWjPq1fLTsdkfd7JxWMAdimL-zjWDE/edit 20120912CommitteeMeeting]||
 ||15 Aug 2012||MC||[https://docs.google.com/document/d/1CKN2UNV7Yydfc23jwtd2UEZTTk-0jbTy_4LGF-PuWl8/edit 20120815CommitteeMeeting]||
 
+Minutes for older meetings are available on [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg Google docs]. This is a restricted folder. 
+
 == Editorial WG meetings ==
  * [https://docs.google.com/document/d/17i7a7Sf88Df-cLckxfOithEyxzwWB36YZ0CeG__cd1w/edit# 20121016 EditorialWG minutes]
 
