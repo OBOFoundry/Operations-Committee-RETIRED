@@ -14,8 +14,8 @@ Please sign up to chair a meeting. The chair should create agenda, host call, cl
 If you chairing a meeting, you can claim the host role on Webex by using the host key on [https://docs.google.com/document/d/1gbPmgag2zWiyX244Ss-CuXKOVhllfEUjEdBKZ6fXDdQ/edit this page].
 
 ||meeting date||chair||link to minutes||
-||9 Dec 2013||Carlo||||
-||13 Nov 2013||Colin||||
+||9 Dec 2013||Colin||||
+||13 Nov 2013||Philippe||||
 ||9 Oct 2013||Janna||[https://docs.google.com/document/d/1_K8f-elWF3uGQRPGr97a-kBtJ_DcvNRPM47673xU4ec/edit# 20131009CommitteeMeeting]||
 ||11 Sep 2013||Chris||[https://docs.google.com/document/d/1Uq9ItToeg0CUXQ0ujd37CPvehReMSWDfy-Akhi0lf2E/edit 20130911CommitteeMeeting]||
 ||14 Aug 2013||Ramona||[https://docs.google.com/document/d/1KQZ8preG4H_Rhu8tVBXLqw6w0WwjpE9_-T39iB9IVM8/edit 20130814CommitteeMeeting]||
@@ -26,11 +26,6 @@ If you chairing a meeting, you can claim the host role on Webex by using the hos
 ||13 Mar 2013||Melissa||[https://docs.google.com/document/d/1KOCbG_xOA0fv77LPaudhOKq8zMijN0ta-9XCBelCIPM/edit 20130313CommitteeMeeting]|||
 ||13 Feb 2013||Darren||[https://docs.google.com/document/d/159bxtsP2FmsiDaPoXixXuUzOH-Jcdlldr2zmVQuDEm4/edit 20130213CommitteeMeeting]||
 ||09 Jan 2013||CB||[https://docs.google.com/document/d/1KSEpS3MlauvF3Mm8QN3j5MM-Qk3fUFKGh2saffO6cX4/edit 20130109CommitteeMeeting]||
-||12 Dec 2012||CB||Cancelled|| 
-||14 Nov 2012||MC||[https://docs.google.com/document/d/1lAMEiOx-pPBBvuOgffC2YtyD6EiYVKRQTa6uBmhNXoE/edit 20121114CommitteeMeeting]||
-||10 Oct 2012||MC||[https://docs.google.com/document/d/1cxYCi0LLcB6FZP1xIv95UARibun2hBZMi8u6VUQbBGA/edit 20121010CommitteeMeeting]||
-||12 Sep 2012||RW||[https://docs.google.com/document/d/18Flr-Kbvb3dOwEWjPq1fLTsdkfd7JxWMAdimL-zjWDE/edit 20120912CommitteeMeeting]||
-||15 Aug 2012||MC||[https://docs.google.com/document/d/1CKN2UNV7Yydfc23jwtd2UEZTTk-0jbTy_4LGF-PuWl8/edit 20120815CommitteeMeeting]||
 
 Minutes for older meetings are available on [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg Google docs]. This is a restricted folder. 
 
