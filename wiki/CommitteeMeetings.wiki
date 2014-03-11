@@ -38,10 +38,10 @@ If you chairing a meeting, you can claim the host role on Webex by using the hos
 Minutes for older meetings are available on [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg Google docs]. This is a restricted folder. 
 
 == Editorial WG meetings ==
- * [https://docs.google.com/document/d/17i7a7Sf88Df-cLckxfOithEyxzwWB36YZ0CeG__cd1w/edit# 20121016 EditorialWG minutes]
+ * [https://drive.google.com/?tab=co&authuser=0#folders/0BxrY0qRdO4buOGlPOVZCenhZUDQ Editorial WG minutes] (restricted access)
 
 == Technical WG meetings ==
 
 == Outreach WG meetings ==
 
-Meeting agendas are in [https://drive.google.com/?authuser=0#folders/0B8x6Blq96uycYVZONXRKdThnekk this folder]. Agendas are currently available to subscribers only.
+ * [https://drive.google.com/?tab=co&authuser=0#folders/0BxrY0qRdO4buQU1xTEg4NGtveGM Outreach WG minutes] (restricted access)
