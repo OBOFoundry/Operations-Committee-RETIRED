@@ -20,7 +20,8 @@ Colin Batchelor, Royal Society of Chemistry, UK
 [http://james.overton.ca James A. Overton], Knocean.com, Toronto, Canada<br>
 [http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg], University at Buffalo, Buffalo, USA<br>
 [http://www.ohsu.edu/xd/education/library/about/staff-directory/carlo-torniai.cfm Carlo Torniai], Oregon Health & Science University, Portland, USA<br>
-
+Jie Zheng, University of Pennsylvania, Philadelphia, USA
+<br>
 = Meetings = 
 
 See [http://code.google.com/p/obo-foundry-operations-committee/wiki/TechnicalWGMeetings here]
