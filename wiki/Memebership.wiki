@@ -1,0 +1,25 @@
+#summary Description of membership of the OBO Foundry Operations Committee
+
+= Introduction =
+
+Initial members of the OBO Foundry Operations Committee were invited by the OBO coordinators. Additional experts were later also invited by the individual working groups. In order to consolidate our memberships across the whole group, and it was adopted on July 30th 2014 that anyone who is active in a working group (active being based on both attendance at WG meetings and actual work done for working groups) be considered a member of the operations committee.
+
+= Details =
+
+Current members of the OBO Foundry Operations Committee are: (in alphabetical order of surname)<br/>
+Colin Batchelor, Royal Society of Chemistry, UK<br>
+Mathias Brochhausen<br>
+[http://purl.org/net/mcourtot Melanie Courtot],  Simon Fraser University, Vancouver, Canada<br>
+[http://www.ohsu.edu/xd/education/library/about/staff-directory/melissa-haendel.cfm Melissa Haendel], Oregon Health & Science University, Portland, OR<br>
+Janna Hastings<br>
+[http://berkeleybop.org/person/chris-mungall Chris Mungall], Lawrence Berkeley Laboratory, Berkeley, USA<br>
+Darren Natale<br>
+[http://james.overton.ca James A. Overton], Knocean.com, Toronto, Canada<br>
+Bjoern Peters<br>
+Philippe Rocca-Serra<br>
+[http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg], University at Buffalo, Buffalo, USA<br>
+[http://www.nybg.org/science/scientist_profile.php?id_scientist=119 Ramona Walls], New York Botanical Garden, Bronx, NY, USA and The iPlant Collaborative, University of Arizona, Tucson, AZ, USA<br>
+[http://cbil.upenn.edu/profile-staff_bio/39 Jie Zheng], University of Pennsylvania, Philadelphia, USA<br>
+
+
+
