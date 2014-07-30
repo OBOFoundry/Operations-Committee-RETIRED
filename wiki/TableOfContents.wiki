@@ -2,7 +2,7 @@
 
 Operations committee
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/MissionStatement Mission statement]
- * [http://code.google.com/p/obo-foundry-operations-committee/wiki/Memebership Membership]
+  * [http://code.google.com/p/obo-foundry-operations-committee/wiki/Memebership Membership]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/CommitteeMeetings Meetings]
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/OperationsCommitteePolicyDecisions Policy decisions] 
   * [http://code.google.com/p/obo-foundry-operations-committee/wiki/MailingLists Mailing-lists]
