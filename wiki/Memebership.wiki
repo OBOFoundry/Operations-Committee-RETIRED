@@ -7,7 +7,7 @@ Initial members of the OBO Foundry Operations Committee were invited by the OBO 
 = Details =
 
 Current members of the OBO Foundry Operations Committee are: (in alphabetical order of surname)<br/>
-Colin Batchelor, Royal Society of Chemistry, UK<br>
+ * Colin Batchelor, Royal Society of Chemistry, UK<br>
 Mathias Brochhausen<br>
 [http://purl.org/net/mcourtot Melanie Courtot],  Simon Fraser University, Vancouver, Canada<br>
 [http://www.ohsu.edu/xd/education/library/about/staff-directory/melissa-haendel.cfm Melissa Haendel], Oregon Health & Science University, Portland, OR<br>
@@ -20,6 +20,4 @@ Philippe Rocca-Serra<br>
 [http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg], University at Buffalo, Buffalo, USA<br>
 [http://www.nybg.org/science/scientist_profile.php?id_scientist=119 Ramona Walls], New York Botanical Garden, Bronx, NY, USA and The iPlant Collaborative, University of Arizona, Tucson, AZ, USA<br>
 [http://cbil.upenn.edu/profile-staff_bio/39 Jie Zheng], University of Pennsylvania, Philadelphia, USA<br>
-
-
 
