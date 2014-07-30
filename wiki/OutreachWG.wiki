@@ -16,7 +16,7 @@ The OBO Foundry Outreach WG is involved in public relations for the OBO Foundry.
 members, please fill in names and links
 
 Mathias Brochhausen<br>
-[http://purl.org/net/mcourtot Melanie Courtot], BC Cancer Research Centre, Vancouver, Canada<br>
+[http://purl.org/net/mcourtot Melanie Courtot], Simon Fraser University, Vancouver, Canada<br>
 [http://www.ohsu.edu/xd/education/library/about/staff-directory/melissa-haendel.cfm Melissa Haendel], Oregon Health & Science University, Portland, OR<br>
 Janna Hastings<br>
 Chris Mungall<br>
