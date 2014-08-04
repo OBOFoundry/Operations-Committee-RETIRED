@@ -1,8 +1,0 @@
-#summary All members of this committee, in all working groups.
-
-(T=technical working group, O=outreach working group, E=editorial working group)
-
-
-
-
-Last updated 4 August 2014
