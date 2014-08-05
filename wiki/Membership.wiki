@@ -20,7 +20,7 @@ Current members of the OBO Foundry Operations Committee are: (in alphabetical or
  * Bjoern Peters (E)
  * Philippe Rocca-Serra (E, O)
  * [http://sciencecommons.org/about/whoweare/ruttenberg/ Alan Ruttenberg] (O, T), University at Buffalo, Buffalo, USA (OBO coordinator)
- * Richard Scheuermann (OBO coordinator) (O)
+ * [http://www.jcvi.org/cms/about/bios/rscheuermann/ Richard Scheuermann] (OBO coordinator) (O), J. Craig Venter Institute, La Jolla, CA, USA
  * Barry Smith (OBO coordinator) (O)
  * [http://www.iplantcollaborative.org/about-iplant/science/science-team Ramona Walls] (E, O), The iPlant Collaborative, University of Arizona, Tucson, AZ, USA
  * [http://cbil.upenn.edu/profile-staff_bio/39 Jie Zheng] (T), University of Pennsylvania, Philadelphia, USA
