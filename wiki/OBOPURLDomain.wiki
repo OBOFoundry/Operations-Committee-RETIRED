@@ -81,3 +81,25 @@ redirects to Ontobee where the IRIs are dereferenced.
 
 
 (cite 1) http://www.w3.org/2001/tag/issues.html#httpRange-14
+
+= Temporary Workaround (Oct 2014) =
+
+While OntoBee is down you can use OLS:
+
+Instructions:
+
+Log into purl.oclc.org
+
+Do a search for the /about/ entry for your ontology - e.g. "/obo/uberon/about/"
+
+Change the entry from:
+{{{
+http://www.ontobee.org/browser/rdf.php?o=UBERON&iri=http://purl.obolibrary.org/obo/
+}}}
+to:
+{{{
+http://www.ebi.ac.uk/ontology-lookup/browse.do?ontName=UBERON&termId=http://purl.obolibrary.org/obo/
+}}}
+(substituting UBERON for your ID space - must be upper case)
+
+Troubleshooting: I've never quite understood the OCLC rules for case sensitivity, in my case I had to change value of "Path:" from "/obo/uberon/about/" to "/obo/UBERON/about/" to get this to work
