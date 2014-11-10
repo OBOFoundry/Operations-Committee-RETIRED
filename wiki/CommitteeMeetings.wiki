@@ -16,6 +16,8 @@ Chairs are assigned on a rotating basis. The chair should create agenda, host ca
 If you chairing a meeting, you can claim the host role on Webex by using the host key on [https://docs.google.com/document/d/1gbPmgag2zWiyX244Ss-CuXKOVhllfEUjEdBKZ6fXDdQ/edit this page].
 
 ||meeting date||chair||link to minutes||
+||26 Nov 2014||James||||
+||10 Nov 2014||Colin||https://docs.google.com/document/d/1z2qCzcYPrbRTf1K4NScTexXOR2BF8R1C-9-XQ3UQFzk/||
 ||17 Sep 2014||Janna||||
 ||20 Aug 2014||Chris||||
 ||16 Jul 2014||Colin||https://docs.google.com/document/d/1rjG8YZrYllmsU7Yiocm0rfdCnkGDapZBKFyoQMo22_4/edit 20140716 committee meeting||
