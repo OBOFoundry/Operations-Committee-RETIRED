@@ -5,18 +5,19 @@
 
 This page lists the various meetings held by the OBO Foundry Operations Committee. Access to minutes of committee meetings is restricted to committee members.
 
+See the [OBOCalendar] for scheduled meetings.
 
 = Details =
 
 == OFOC meetings ==
-Calls take place on the every two weeks on Teusday, at 8AM Pacific Time. Link to Webex:  https://iplant.webex.com/iplant/j.php?ED=264808412&UID=1627884442&PW=NNTA2NWE2Nzk3&RT=MiM0
 
-Chairs are assigned on a rotating basis. The chair should create agenda, host call, clean up minutes, etc. If you are unable to chair the call assigned to you, please find someone to take your place or trade with you.
-
-If you chairing a meeting, you can claim the host role on Webex by using the host key on [https://docs.google.com/document/d/1gbPmgag2zWiyX244Ss-CuXKOVhllfEUjEdBKZ6fXDdQ/edit this page].
+Chairs are assigned on a rotating basis. The chair should create agenda, host call, clean up minutes, etc. We have been keeping minutes using Google Docs in the [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg "obo-operations-meetings"] shared folder (access restricted to committee members). If you are unable to chair the call assigned to you, please find someone to take your place or trade with you.
 
 ||meeting date||chair||link to minutes||
-||26 Nov 2014||James||[https://docs.google.com/document/d/1RMc0KJjfM__p_bqvKiR49vqjB43RxeXv4T5o2vCdeSo/edit?usp=sharing 20141125CommitteeMeeting]||
+||20 Jan 2015||Melanie||||
+||6 Jan 2015||Ramona||||
+||9 Dec 2014||Janna||||
+||25 Nov 2014||James||[https://docs.google.com/document/d/1RMc0KJjfM__p_bqvKiR49vqjB43RxeXv4T5o2vCdeSo/edit?usp=sharing 20141125CommitteeMeeting]||
 ||10 Nov 2014||Colin||[https://docs.google.com/document/d/1z2qCzcYPrbRTf1K4NScTexXOR2BF8R1C-9-XQ3UQFzk/ 20141110CommitteeMeeting]||
 ||17 Sep 2014||Janna||||
 ||20 Aug 2014||Chris||||
@@ -36,8 +37,7 @@ If you chairing a meeting, you can claim the host role on Webex by using the hos
 ||12 June 2013||Alan||[https://docs.google.com/document/d/1XRPwIw3fX1qVhaW4mFx0x-9IKG_oiFLtgaJ5bUEMDmw/edit 20130612CommitteeMeeting]||
 ||8 May 2013||Bjoern||Public forum||
 
-
-Minutes for older meetings are available on [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg Google docs]. This is a restricted folder. 
+Minutes for older meetings are available on [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg Google Docs] (restricted access).
 
 == Editorial WG meetings ==
  * [https://drive.google.com/?tab=co&authuser=0#folders/0BxrY0qRdO4buOGlPOVZCenhZUDQ Editorial WG minutes] (restricted access)
