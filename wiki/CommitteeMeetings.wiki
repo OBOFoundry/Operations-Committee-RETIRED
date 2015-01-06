@@ -17,8 +17,8 @@ Chairs are assigned on a rotating basis. The chair should create agenda, host ca
 ||31 Mar 2015||TBD||||
 ||17 Mar 2015||TBD||||
 ||3 Mar 2015||TBD|||| 
-||17 Feb 2015||TBD||||
-||3 Feb 2015||TBD||||
+||17 Feb 2015||Jie||||
+||3 Feb 2015||Richard||||
 ||20 Jan 2015||Melanie||||
 ||6 Jan 2015||Ramona||||
 ||9 Dec 2014||Janna||||
