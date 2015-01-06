@@ -14,6 +14,11 @@ See the [OBOCalendar] for scheduled meetings.
 Chairs are assigned on a rotating basis. The chair should create agenda, host call, clean up minutes, etc. We have been keeping minutes using Google Docs in the [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg "obo-operations-meetings"] shared folder (access restricted to committee members). If you are unable to chair the call assigned to you, please find someone to take your place or trade with you.
 
 ||meeting date||chair||link to minutes||
+||31 Mar 2015||TBD||||
+||17 Mar 2015||TBD||||
+||3 Mar 2015||TBD|||| 
+||17 Feb 2015||TBD||||
+||3 Feb 2015||TBD||||
 ||20 Jan 2015||Melanie||||
 ||6 Jan 2015||Ramona||||
 ||9 Dec 2014||Janna||||
@@ -31,11 +36,7 @@ Chairs are assigned on a rotating basis. The chair should create agenda, host ca
 ||9 Dec 2013||Ramona||[https://docs.google.com/document/d/1DUkT9PpYClrIEJ8nWRk-dGnvKFpw6ntTakRcYqrXfvg/edit# 20131211CommitteeMeeting]||
 ||13 Nov 2013||Philippe||[https://docs.google.com/document/d/1M_dkW-Uz51iUR6kgG6PLHpNG4frr-EOGyBK2BsDaZm4/edit 20131112CommitteeMeeting]||
 ||9 Oct 2013||Janna||[https://docs.google.com/document/d/1_K8f-elWF3uGQRPGr97a-kBtJ_DcvNRPM47673xU4ec/edit# 20131009CommitteeMeeting]||
-||11 Sep 2013||Chris||[https://docs.google.com/document/d/1Uq9ItToeg0CUXQ0ujd37CPvehReMSWDfy-Akhi0lf2E/edit 20130911CommitteeMeeting]||
-||14 Aug 2013||Ramona||[https://docs.google.com/document/d/1KQZ8preG4H_Rhu8tVBXLqw6w0WwjpE9_-T39iB9IVM8/edit 20130814CommitteeMeeting]||
-||9 Jul 2013||Melanie||no meeting - ICBO|| 
-||12 June 2013||Alan||[https://docs.google.com/document/d/1XRPwIw3fX1qVhaW4mFx0x-9IKG_oiFLtgaJ5bUEMDmw/edit 20130612CommitteeMeeting]||
-||8 May 2013||Bjoern||Public forum||
+
 
 Minutes for older meetings are available on [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg Google Docs] (restricted access).
 
