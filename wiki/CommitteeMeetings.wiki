@@ -20,8 +20,8 @@ Chairs are assigned on a rotating basis. The chair should create agenda, host ca
 ||17 Feb 2015||Jie||||
 ||3 Feb 2015||Richard||||
 ||20 Jan 2015||Melanie||||
-||6 Jan 2015||Ramona||||
-||9 Dec 2014||Janna||||
+||6 Jan 2015||Ramona||[https://docs.google.com/document/d/1nnoyLd28-TV1dSpdpZptcnvxp6z6_XMeyi5_ZejuGGY/edit# 20150106 OFOC Meeting]||
+||9 Dec 2014||Janna||[https://docs.google.com/document/d/1lqesCBBjJS4BYAfuNa71YiZnqHkul0g4GiXjAyoU3_E/edit 20141209 OFOC Meeting]||
 ||25 Nov 2014||James||[https://docs.google.com/document/d/1RMc0KJjfM__p_bqvKiR49vqjB43RxeXv4T5o2vCdeSo/edit?usp=sharing 20141125CommitteeMeeting]||
 ||10 Nov 2014||Colin||[https://docs.google.com/document/d/1z2qCzcYPrbRTf1K4NScTexXOR2BF8R1C-9-XQ3UQFzk/ 20141110CommitteeMeeting]||
 ||17 Sep 2014||Janna||||
