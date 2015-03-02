@@ -14,9 +14,14 @@ See the [OBOCalendar] for scheduled meetings.
 Chairs are assigned on a rotating basis. The chair should create agenda, host call, clean up minutes, etc. We have been keeping minutes using Google Docs in the [https://drive.google.com/?tab=mo&authuser=0#folders/0B968UM0a5noaUmxPWEJESi1oRzg "obo-operations-meetings"] shared folder (access restricted to committee members). If you are unable to chair the call assigned to you, please find someone to take your place or trade with you.
 
 ||meeting date||chair||link to minutes||
-||31 Mar 2015||TBD||||
-||17 Mar 2015||TBD||||
-||3 Mar 2015||James O|||| 
+||31 Mar 2015||Melanie||||
+||31 Mar 2015||Bjoern||||
+||31 Mar 2015||Colin||||
+||31 Mar 2015||Ramona||||
+||31 Mar 2015||Richard|||
+||31 Mar 2015||Jie||||
+||17 Mar 2015||Janna||||
+||3 Mar 2015||James O||[https://docs.google.com/document/d/1TxkT4_TGOKZaih0chbU84WHKV_OYlXPMpaCL5-rcxcE/edit 20150303 OFOC meeting]||
 ||17 Feb 2015||Melanie||[https://docs.google.com/document/d/1HX0L9uc3jxVjc3vyvE-wEnMGmFAEu1IGqAxQ4nwNU38/edit# 20150217 OFOC meeting]||
 ||3 Feb 2015||Richard||[https://docs.google.com/document/d/1lQaM5HyPJHtwl5JRNvdk3BQbNAaThl_38t2N99XXA78/edit 03FEB2015 OFOC Meeting]||
 ||20 Jan 2015||Jie||[https://docs.google.com/document/d/10ib0qhiZ3dcIrpA3PXOIKbWaAugQepQF47TmitPPXOE/edit# 20150106 OFOC Meeting]||
