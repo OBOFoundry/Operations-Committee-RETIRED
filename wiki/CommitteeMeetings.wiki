@@ -15,7 +15,7 @@ Chairs are assigned on a rotating basis. The chair should create agenda, host ca
 
 ||meeting date||chair||link to minutes||
 ||9 Jun 2015||Melanie||||
-||26 May 2015||Bjoern||||
+||26 May 2015||Bjoern||public forum?||
 ||12 May 2015||Colin||public forum?||
 ||28 Apr 2015||Ramona||||
 ||14 Apr 2015||Richard||postponed until 4/28||
