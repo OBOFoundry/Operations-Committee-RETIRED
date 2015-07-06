@@ -38,6 +38,8 @@ Philippe Rocca-Serra
 
 Alan Ruttenberg
 
+Chris Stoeckert
+
 [http://www.nybg.org/science/scientist_profile.php?id_scientist=119 Ramona Walls], New York Botanical Garden, Bronx, NY, USA<br>
 
 Membership in the OBO Foundry Editorial WG is open to all members of the OBO Foundry Operations Committee who are willing to actively participate. If you are interested in joining the working group, send an email to the mailing list.
